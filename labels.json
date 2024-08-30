@@ -1,0 +1,4577 @@
+[
+    {
+        "id": "rabbit",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Rabbit",
+                "description": "This user's fursona is a Rabbit! AKA: bunny, bnuy, bun"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Coelha/Coelho",
+                "description": "A fursona deste usuário é um coelho! AKA: rabbit, bunny, bnuy, bun"
+            }
+        ]
+    },
+    {
+        "id": "fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Fox",
+                "description": "This user's fursona is a Fox!"
+            }
+        ]
+    },
+    {
+        "id": "red-panda",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Red Panda",
+                "description": "This user's fursona is a Red Panda! AKA: wah"
+            }
+        ]
+    },
+    {
+        "id": "deer",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Deer",
+                "description": "This user's fursona is a Deer! Bleat!"
+            }
+        ]
+    },
+    {
+        "id": "pokemon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pokemon",
+                "description": "This user's fursona is a Pokemon!"
+            }
+        ]
+    },
+    {
+        "id": "dog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dog",
+                "description": "This user's fursona is a Dog! (AKA: puppy, doggo, pupper)"
+            }
+        ]
+    },
+    {
+        "id": "dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dragon",
+                "description": "This user's fursona is a Dragon!"
+            }
+        ]
+    },
+    {
+        "id": "skunk",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Skunk",
+                "description": "This user's fursona is a Skunk!"
+            }
+        ]
+    },
+    {
+        "id": "hyena",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hyena",
+                "description": "This user's fursona is a Hyena!"
+            }
+        ]
+    },
+    {
+        "id": "horse",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Horse",
+                "description": "This user's fursona is a Horse!"
+            }
+        ]
+    },
+    {
+        "id": "bear",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bear",
+                "description": "This user's fursona is a Bear!"
+            }
+        ]
+    },
+    {
+        "id": "otter",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Otter",
+                "description": "This user's fursona is an Otter!"
+            }
+        ]
+    },
+    {
+        "id": "bird",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bird",
+                "description": "This user's fursona is a Bird!"
+            }
+        ]
+    },
+    {
+        "id": "raccoon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Raccoon",
+                "description": "This user's fursona is a Raccoon!"
+            }
+        ]
+    },
+    {
+        "id": "mouse",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mouse",
+                "description": "This user's fursona is a Mouse!"
+            }
+        ]
+    },
+    {
+        "id": "rat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Rat",
+                "description": "This user's fursona is a Rat!"
+            }
+        ]
+    },
+    {
+        "id": "cat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cat",
+                "description": "This user's fursona is a Cat!"
+            }
+        ]
+    },
+    {
+        "id": "big-cat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Big Cat",
+                "description": "This user's fursona is a Big Cat!"
+            }
+        ]
+    },
+    {
+        "id": "wolf",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Wolf",
+                "description": "This user's fursona is a Wolf!"
+            }
+        ]
+    },
+    {
+        "id": "hybrid",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hybrid",
+                "description": "This user's fursona is a Hybrid!"
+            }
+        ]
+    },
+    {
+        "id": "protogen",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Protogen",
+                "description": "This user's fursona is a Protogen! Beep-boop."
+            }
+        ]
+    },
+    {
+        "id": "kanvi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kan'vi",
+                "description": "This user's fursona is a Kan'vi! https://kanvi.carrd.co/ [Tags: open-species]"
+            }
+        ]
+    },
+    {
+        "id": "taur",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Taur",
+                "description": "This user's fursona is a Taur! (See other labels to see what kind)"
+            }
+        ]
+    },
+    {
+        "id": "snake",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Snake",
+                "description": "This user's fursona is a Snake! [Category: Snake]"
+            }
+        ]
+    },
+    {
+        "id": "shark",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Shark",
+                "description": "This user's fursona is a Shark!"
+            }
+        ]
+    },
+    {
+        "id": "sergal",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sergal",
+                "description": "This user's fursona is a Sergal!"
+            }
+        ]
+    },
+    {
+        "id": "orca",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Orca",
+                "description": "This user's fursona is an Orca!"
+            }
+        ]
+    },
+    {
+        "id": "seal",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Seal",
+                "description": "This user's fursona is a Seal!"
+            }
+        ]
+    },
+    {
+        "id": "tiger",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Tiger",
+                "description": "This user's fursona is a Tiger!"
+            }
+        ]
+    },
+    {
+        "id": "chameleon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Chameleon",
+                "description": "This user's fursona is a Chameleon!"
+            }
+        ]
+    },
+    {
+        "id": "capybara",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Capybara",
+                "description": "This user's fursona is a Capybara!"
+            }
+        ]
+    },
+    {
+        "id": "jackal",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Jackal",
+                "description": "This user's fursona is a Jackal!"
+            }
+        ]
+    },
+    {
+        "id": "yinglet",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Yinglet",
+                "description": "This user's fursona is a Yinglet! https://en.wikifur.com/wiki/Out-of-Placers"
+            }
+        ]
+    },
+    {
+        "id": "kangaroo",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kangaroo",
+                "description": "This user's fursona is a Kangaroo!"
+            }
+        ]
+    },
+    {
+        "id": "coyote",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Coyote",
+                "description": "This user's fursona is a Coyote!"
+            }
+        ]
+    },
+    {
+        "id": "squirrel",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Squirrel",
+                "description": "This user's fursona is a Squirrel!"
+            }
+        ]
+    },
+    {
+        "id": "cheetah",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cheetah",
+                "description": "This user's fursona is a Cheetah!"
+            }
+        ]
+    },
+    {
+        "id": "snow-leopard",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Snow Leopard",
+                "description": "This user's fursona is a Snow Leopard!"
+            }
+        ]
+    },
+    {
+        "id": "possum",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Possum",
+                "description": "This user's fursona is a Possum! (Phalangeriformes; NOT the same as an opossum which is sometimes called \"possum\" as well in North America)"
+            }
+        ]
+    },
+    {
+        "id": "bat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bat",
+                "description": "This user's fursona is a Bat!"
+            }
+        ]
+    },
+    {
+        "id": "mustelid",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mustelid",
+                "description": "This user's fursona is a Mustelid! [Category: Mustelid]"
+            }
+        ]
+    },
+    {
+        "id": "marten",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Marten",
+                "description": "This user's fursona is a Marten! [Category: Mustelid]"
+            }
+        ]
+    },
+    {
+        "id": "ferret",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ferret",
+                "description": "This user's fursona is a Ferret! [Category: Mustelid]"
+            }
+        ]
+    },
+    {
+        "id": "weasel",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Weasel",
+                "description": "This user's fursona is a Weasel! [Category: Mustelid]"
+            }
+        ]
+    },
+    {
+        "id": "stoat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Stoat",
+                "description": "This user's fursona is a Stoat! [Category: Mustelid]"
+            }
+        ]
+    },
+    {
+        "id": "unicorn",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Unicorn",
+                "description": "This user's fursona is an Unicorn!"
+            }
+        ]
+    },
+    {
+        "id": "crocodile",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Crocodile",
+                "description": "This user's fursona is a Crocodile!"
+            }
+        ]
+    },
+    {
+        "id": "alligator",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Alligator",
+                "description": "This user's fursona is an Alligator!"
+            }
+        ]
+    },
+    {
+        "id": "alpaca",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Alpaca",
+                "description": "This user's fursona is an Alpaca!"
+            }
+        ]
+    },
+    {
+        "id": "llama",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Llama",
+                "description": "This user's fursona is a Llama!"
+            }
+        ]
+    },
+    {
+        "id": "goat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Goat",
+                "description": "This user's fursona is a Goat!"
+            }
+        ]
+    },
+    {
+        "id": "phoenix",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Phoenix",
+                "description": "This user's fursona is a Phoenix!"
+            }
+        ]
+    },
+    {
+        "id": "eel",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Eel",
+                "description": "This user's fursona is an Eel!"
+            }
+        ]
+    },
+    {
+        "id": "fish",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Fish",
+                "description": "This user's fursona is a Fish!"
+            }
+        ]
+    },
+    {
+        "id": "plane-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Plane Dragon",
+                "description": "This user's fursona is a Plane Dragon!"
+            }
+        ]
+    },
+    {
+        "id": "lizard",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lizard",
+                "description": "This user's fursona is a Lizard!"
+            }
+        ]
+    },
+    {
+        "id": "manokit",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Manokit",
+                "description": "This user's fursona is a Manokit!"
+            }
+        ]
+    },
+    {
+        "id": "gryphon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gryphon",
+                "description": "This user's fursona is a Gryphon!"
+            }
+        ]
+    },
+    {
+        "id": "wolverine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Wolverine",
+                "description": "This user's fursona is a Wolverine!"
+            }
+        ]
+    },
+    {
+        "id": "lynx",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lynx",
+                "description": "This user's fursona is a Lynx!"
+            }
+        ]
+    },
+    {
+        "id": "werewolf",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Werewolf",
+                "description": "This user's fursona is a Werewolf!"
+            }
+        ]
+    },
+    {
+        "id": "coywolf",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Coywolf",
+                "description": "This user's fursona is a Coywolf!"
+            }
+        ]
+    },
+    {
+        "id": "boar",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Boar",
+                "description": "This user's fursona is a Boar!"
+            }
+        ]
+    },
+    {
+        "id": "kobold",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kobold",
+                "description": "This user's fursona is a Kobold!"
+            }
+        ]
+    },
+    {
+        "id": "cryptid",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cryptid",
+                "description": "This user's fursona is a Cryptid!"
+            }
+        ]
+    },
+    {
+        "id": "mythical-creature",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mythical Creature",
+                "description": "This user's fursona is a Mythical Creature!"
+            }
+        ]
+    },
+    {
+        "id": "eldritch-creature",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Eldritch Creature",
+                "description": "This user's fursona is an Eldritch Creature!"
+            }
+        ]
+    },
+    {
+        "id": "puma",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Puma",
+                "description": "This user's fursona is a Puma!"
+            }
+        ]
+    },
+    {
+        "id": "tanuki",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Tanuki",
+                "description": "This user's fursona is a Tanuki!"
+            }
+        ]
+    },
+    {
+        "id": "bovine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bovine",
+                "description": "This user's fursona is a Bovine!"
+            }
+        ]
+    },
+    {
+        "id": "red-wolf",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Red Wolf",
+                "description": "This user's fursona is a Red Wolf!"
+            }
+        ]
+    },
+    {
+        "id": "fennec-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Fennec Fox",
+                "description": "This user's fursona is a Fennec Fox!"
+            }
+        ]
+    },
+    {
+        "id": "saber",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Saber",
+                "description": "This user's fursona is a Saber!"
+            }
+        ]
+    },
+    {
+        "id": "saber-toothed-cat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Saber-Toothed Cat",
+                "description": "This user's fursona is a Saber-Toothed Cat!"
+            }
+        ]
+    },
+    {
+        "id": "donkey",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Donkey",
+                "description": "This user's fursona is a Donkey! Hee-haw~!"
+            }
+        ]
+    },
+    {
+        "id": "leopard",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Leopard",
+                "description": "This user's fursona is a Leopard!"
+            }
+        ]
+    },
+    {
+        "id": "chakat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Chakat",
+                "description": "This user's fursona is a Chakat!"
+            }
+        ]
+    },
+    {
+        "id": "hedgehog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hedgehog",
+                "description": "This user's fursona is a Hedgehog!"
+            }
+        ]
+    },
+    {
+        "id": "monster-dog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Monster Dog",
+                "description": "This user's fursona is a Monster Dog!"
+            }
+        ]
+    },
+    {
+        "id": "pooltoy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pooltoy",
+                "description": "This user's fursona is a Pooltoy! Squeak!"
+            }
+        ]
+    },
+    {
+        "id": "dolphin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dolphin",
+                "description": "This user's fursona is a Dolphin!"
+            }
+        ]
+    },
+    {
+        "id": "dinosaur",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dinosaur",
+                "description": "This user's fursona is a Dinosaur!"
+            }
+        ]
+    },
+    {
+        "id": "deathclaw",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Deathclaw",
+                "description": "This user's fursona is a Deathclaw!"
+            }
+        ]
+    },
+    {
+        "id": "lion",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lion",
+                "description": "This user's fursona is a Lion!"
+            }
+        ]
+    },
+    {
+        "id": "reptile",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Reptile",
+                "description": "This user's fursona is a Reptile!"
+            }
+        ]
+    },
+    {
+        "id": "unknown",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "404 Fursona Not Found",
+                "description": "This user's fursona is... not yet known! Maybe they're still trying to figure out."
+            }
+        ]
+    },
+    {
+        "id": "species-fluid",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Species Fluid",
+                "description": "This user's fursona species may change often!"
+            }
+        ]
+    },
+    {
+        "id": "snail",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Snail",
+                "description": "This user's fursona is a Snail!"
+            }
+        ]
+    },
+    {
+        "id": "insect",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Insect",
+                "description": "This user's fursona is an Insect!"
+            }
+        ]
+    },
+    {
+        "id": "avali",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Avali",
+                "description": "This user's fursona is an Avali! https://en.wikifur.com/wiki/Avali"
+            }
+        ]
+    },
+    {
+        "id": "alien",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Alien",
+                "description": "This user's fursona is an Alien!"
+            }
+        ]
+    },
+    {
+        "id": "dingo",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dingo",
+                "description": "This user's fursona is a Dingo!"
+            }
+        ]
+    },
+    {
+        "id": "coastal-wolf",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Coastal Wolf",
+                "description": "This user's fursona is a Coastal Wolf! https://en.wikipedia.org/wiki/Vancouver_Coastal_Sea_wolf"
+            }
+        ]
+    },
+    {
+        "id": "maned-wolf",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Maned Wolf",
+                "description": "This user's fursona is a Maned Wolf!"
+            }
+        ]
+    },
+    {
+        "id": "jackalope",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Jackalope",
+                "description": "This user's fursona is a Jackalope!"
+            }
+        ]
+    },
+    {
+        "id": "shiba-inu",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Shiba Inu",
+                "description": "This user's fursona is a Shiba Inu!"
+            }
+        ]
+    },
+    {
+        "id": "shikoku-inu",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Shikoku Inu",
+                "description": "This user's fursona is a Shikoku Inu!"
+            }
+        ]
+    },
+    {
+        "id": "vampire",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Vampire",
+                "description": "This user's fursona is a Vampire!"
+            }
+        ]
+    },
+    {
+        "id": "supernatural-creature",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Supernatural Creature",
+                "description": "This user's fursona is a Supernatural Creature!"
+            }
+        ]
+    },
+    {
+        "id": "yokai",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Yokai",
+                "description": "This user's fursona is a Yokai!"
+            }
+        ]
+    },
+    {
+        "id": "hellhound",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hellhound",
+                "description": "This user's fursona is a Hellhound!"
+            }
+        ]
+    },
+    {
+        "id": "demon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Demon",
+                "description": "This user's fursona is a Demon!"
+            }
+        ]
+    },
+    {
+        "id": "salamander",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Salamander",
+                "description": "This user's fursona is a Salamander!"
+            }
+        ]
+    },
+    {
+        "id": "neopet",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neopet",
+                "description": "This user's fursona is a Neopet! [Category: Neopet]"
+            }
+        ]
+    },
+    {
+        "id": "crux",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Crux",
+                "description": "This user's fursona is a Crux! https://en.wikifur.com/wiki/Crux_(species)"
+            }
+        ]
+    },
+    {
+        "id": "raptor",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Raptor",
+                "description": "This user's fursona is a Raptor! [Category: Dinosaur]"
+            }
+        ]
+    },
+    {
+        "id": "shapeshifter",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Shapeshifter",
+                "description": "This user's fursona is a Shapeshifter!"
+            }
+        ]
+    },
+    {
+        "id": "axolotl",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Axolotl",
+                "description": "This user's fursona is an Axolotl!"
+            }
+        ]
+    },
+    {
+        "id": "eagle",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Eagle",
+                "description": "This user's fursona is an Eagle! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "falcon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Falcon",
+                "description": "This user's fursona is a Falcon! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "chicken",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Chicken",
+                "description": "This user's fursona is a Chicken! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "duck",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Duck",
+                "description": "This user's fursona is a Duck! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "parrot",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Parrot",
+                "description": "This user's fursona is a Parrot! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "crow",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Crow",
+                "description": "This user's fursona is a Crow! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "raven",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Raven",
+                "description": "This user's fursona is a Raven! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "blue-jay",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Blue Jay",
+                "description": "This user's fursona is a Blue Jay! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "goose",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Goose",
+                "description": "This user's fursona is a Goose! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "swan",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Swan",
+                "description": "This user's fursona is a Swan! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "penguin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Penguin",
+                "description": "This user's fursona is a Penguin! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "pigeon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pigeon",
+                "description": "This user's fursona is a Pigeon! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "dove",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dove",
+                "description": "This user's fursona is a Dove! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "cardinal",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cardinal",
+                "description": "This user's fursona is a Cardinal! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "robin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Robin",
+                "description": "This user's fursona is a Robin! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "gecko",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gecko",
+                "description": "This user's fursona is a Gecko!"
+            }
+        ]
+    },
+    {
+        "id": "quox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Quox",
+                "description": "This user's fursona is a Quox! https://breezewiki.com/towerofdruaga/wiki/Quox"
+            }
+        ]
+    },
+    {
+        "id": "chimera",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Chimera",
+                "description": "This user's fursona is a Chimera!"
+            }
+        ]
+    },
+    {
+        "id": "kitsune",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kitsune",
+                "description": "This user's fursona is a Kitsune!"
+            }
+        ]
+    },
+    {
+        "id": "sheep",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sheep",
+                "description": "This user's fursona is a Sheep!"
+            }
+        ]
+    },
+    {
+        "id": "ram",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ram",
+                "description": "This user's fursona is a Ram!"
+            }
+        ]
+    },
+    {
+        "id": "owl",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Owl",
+                "description": "This user's fursona is an Owl! Hoot!"
+            }
+        ]
+    },
+    {
+        "id": "robot",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Robot",
+                "description": "This user's fursona is a Robot!"
+            }
+        ]
+    },
+    {
+        "id": "komodo-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Komodo Dragon",
+                "description": "This user's fursona is a Komodo Dragon!"
+            }
+        ]
+    },
+    {
+        "id": "pig",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pig",
+                "description": "This user's fursona is a Pig!"
+            }
+        ]
+    },
+    {
+        "id": "golden-retriever",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Golden Retriever",
+                "description": "This user's fursona is a Golden Retriever!"
+            }
+        ]
+    },
+    {
+        "id": "peafowl",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peafowl",
+                "description": "This user's fursona is a Peafowl! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "serval",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Serval",
+                "description": "This user's fursona is a Serval!"
+            }
+        ]
+    },
+    {
+        "id": "lionbear",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lionbear",
+                "description": "This user's fursona is a Lionbear!"
+            }
+        ]
+    },
+    {
+        "id": "elk",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Elk",
+                "description": "This user's fursona is an Elk!"
+            }
+        ]
+    },
+    {
+        "id": "mightyena",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mightyena",
+                "description": "This user's fursona is a Mightyena! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "moose",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Moose",
+                "description": "This user's fursona is a Moose!"
+            }
+        ]
+    },
+    {
+        "id": "sloth",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sloth",
+                "description": "This user's fursona is a Sloth!"
+            }
+        ]
+    },
+    {
+        "id": "macaw",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Macaw",
+                "description": "This user's fursona is a Macaw! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "giant-panda",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Giant Panda",
+                "description": "This user's fursona is a Giant Panda!"
+            }
+        ]
+    },
+    {
+        "id": "hamster",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hamster",
+                "description": "This user's fursona is a Hamster!"
+            }
+        ]
+    },
+    {
+        "id": "polar-bear",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Polar Bear",
+                "description": "This user's fursona is a Polar Bear!"
+            }
+        ]
+    },
+    {
+        "id": "frog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Frog",
+                "description": "This user's fursona is a Frog!"
+            }
+        ]
+    },
+    {
+        "id": "gnoll",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gnoll",
+                "description": "This user's fursona is a Gnoll!"
+            }
+        ]
+    },
+    {
+        "id": "african-crested-porcupine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "African Crested Porcupine",
+                "description": "This user's fursona is an African Crested Porcupine!"
+            }
+        ]
+    },
+    {
+        "id": "arctic-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Snowfox",
+                "description": "This user's fursona is an Arctic Fox! AKA: Snowfox, Snow Fox"
+            }
+        ]
+    },
+    {
+        "id": "tasmanian-devil",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Tasmanian Devil",
+                "description": "This user's fursona is a Tasmanian Devil!"
+            }
+        ]
+    },
+    {
+        "id": "pangolin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pangolin",
+                "description": "This user's fursona is a Pangolin!"
+            }
+        ]
+    },
+    {
+        "id": "rhino",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Rhino",
+                "description": "This user's fursona is a Rhino!"
+            }
+        ]
+    },
+    {
+        "id": "porcupine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Porcupine",
+                "description": "This user's fursona is a Porcupine!"
+            }
+        ]
+    },
+    {
+        "id": "gargoyle",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gargoyle",
+                "description": "This user's fursona is a Gargoyle!"
+            }
+        ]
+    },
+    {
+        "id": "zebra",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Zebra",
+                "description": "This user's fursona is a Zebra!"
+            }
+        ]
+    },
+    {
+        "id": "hawk",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hawk",
+                "description": "This user's fursona is a Hawk!"
+            }
+        ]
+    },
+    {
+        "id": "monkey",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Monkey",
+                "description": "This user's fursona is a Monkey!"
+            }
+        ]
+    },
+    {
+        "id": "cabbit",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cabbit",
+                "description": "This user's fursona is a Cabbit!"
+            }
+        ]
+    },
+    {
+        "id": "badger",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Badger",
+                "description": "This user's fursona is a Badger! [Category: Mustelid]"
+            }
+        ]
+    },
+    {
+        "id": "jaguar",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Jaguar",
+                "description": "This user's fursona is a Jaguar!"
+            }
+        ]
+    },
+    {
+        "id": "giraffe",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Giraffe",
+                "description": "This user's fursona is a Giraffe!"
+            }
+        ]
+    },
+    {
+        "id": "spider",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Spider",
+                "description": "This user's fursona is a Spider!"
+            }
+        ]
+    },
+    {
+        "id": "langurhali",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Langurhali",
+                "description": "This user's fursona is a Langurhali! https://en.wikifur.com/wiki/Vera#Langurhali"
+            }
+        ]
+    },
+    {
+        "id": "black-bear",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Black Bear",
+                "description": "This user's fursona is a Black Bear!"
+            }
+        ]
+    },
+    {
+        "id": "platypus",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Platypus",
+                "description": "This user's fursona is a Platypus!"
+            }
+        ]
+    },
+    {
+        "id": "bee",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bee",
+                "description": "This user's fursona is a Bee!"
+            }
+        ]
+    },
+    {
+        "id": "husky",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Husky",
+                "description": "This user's fursona is a Husky!"
+            }
+        ]
+    },
+    {
+        "id": "sparkledog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sparkledog",
+                "description": "This user's fursona is a Sparkledog!"
+            }
+        ]
+    },
+    {
+        "id": "sparklefur",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sparklefur",
+                "description": "This user's fursona is a Sparklefur!"
+            }
+        ]
+    },
+    {
+        "id": "lemur",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lemur",
+                "description": "This user's fursona is a Lemur!"
+            }
+        ]
+    },
+    {
+        "id": "toy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Toy",
+                "description": "This user's fursona is a Toy!"
+            }
+        ]
+    },
+    {
+        "id": "meerkat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Meerkat",
+                "description": "This user's fursona is a Meerkat!"
+            }
+        ]
+    },
+    {
+        "id": "kudu",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kudu",
+                "description": "This user's fursona is a Kudu!"
+            }
+        ]
+    },
+    {
+        "id": "gorgonopsid",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gorgonopsid",
+                "description": "This user's fursona is a Gorgonopsid!"
+            }
+        ]
+    },
+    {
+        "id": "plushie",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Plushie",
+                "description": "This user's fursona is a Plushie!"
+            }
+        ]
+    },
+    {
+        "id": "weavile",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Weavile",
+                "description": "This user's fursona is a Weavile! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "blue-marlin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Blue Marlin",
+                "description": "This user's fursona is a Blue Marlin!"
+            }
+        ]
+    },
+    {
+        "id": "elephant",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Elephant",
+                "description": "This user's fursona is an Elephant!"
+            }
+        ]
+    },
+    {
+        "id": "mammoth",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mammoth",
+                "description": "This user's fursona is a Mammoth!"
+            }
+        ]
+    },
+    {
+        "id": "caracal",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Caracal",
+                "description": "This user's fursona is a Caracal!"
+            }
+        ]
+    },
+    {
+        "id": "bobcat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bobcat",
+                "description": "This user's fursona is a Bobcat!"
+            }
+        ]
+    },
+    {
+        "id": "kaiju",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kaiju",
+                "description": "This user's fursona is a Kaiju!"
+            }
+        ]
+    },
+    {
+        "id": "monster",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Monster",
+                "description": "This user's fursona is a Monster!"
+            }
+        ]
+    },
+    {
+        "id": "cow",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cow",
+                "description": "This user's fursona is a Cow!"
+            }
+        ]
+    },
+    {
+        "id": "muscovy-duck",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Muscovy Duck",
+                "description": "This user's fursona is a Muscovy Duck!"
+            }
+        ]
+    },
+    {
+        "id": "dachshund",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dachshund",
+                "description": "This user's fursona is a Dachshund!"
+            }
+        ]
+    },
+    {
+        "id": "hound-dog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hound Dog",
+                "description": "This user's fursona is a Hound Dog!"
+            }
+        ]
+    },
+    {
+        "id": "small-dog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Small Dog",
+                "description": "This user's fursona is a Small Dog!"
+            }
+        ]
+    },
+    {
+        "id": "tiger-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Tiger-Dragon",
+                "description": "This user's fursona is a Tiger-Dragon!"
+            }
+        ]
+    },
+    {
+        "id": "dracat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dracat",
+                "description": "This user's fursona is a Dracat!"
+            }
+        ]
+    },
+    {
+        "id": "chihuahua",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Chihuahua",
+                "description": "This user's fursona is a Chihuahua!"
+            }
+        ]
+    },
+    {
+        "id": "african-wild-dog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "African Wild Dog",
+                "description": "This user's fursona is an African Wild Dog!"
+            }
+        ]
+    },
+    {
+        "id": "skulldog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Skulldog",
+                "description": "This user's fursona is a Skulldog!"
+            }
+        ]
+    },
+    {
+        "id": "toon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Toon",
+                "description": "This user's fursona is a Toon!"
+            }
+        ]
+    },
+    {
+        "id": "coral-reef",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Coral Reef",
+                "description": "This user's fursona is a Coral Reef!"
+            }
+        ]
+    },
+    {
+        "id": "hummingbird",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hummingbird",
+                "description": "This user's fursona is a Hummingbird! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "lucario",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lucario",
+                "description": "This user's fursona is a Lucario! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "cocker-spaniel",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cocker Spaniel",
+                "description": "This user's fursona is a Cocker Spaniel!"
+            }
+        ]
+    },
+    {
+        "id": "angel",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Angel",
+                "description": "This user's fursona is an Angel!"
+            }
+        ]
+    },
+    {
+        "id": "solar",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Solar",
+                "description": "This user's fursona can be described as Solar!"
+            }
+        ]
+    },
+    {
+        "id": "wolf-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Wolf Dragon",
+                "description": "This user's fursona is a Wolf Dragon!"
+            }
+        ]
+    },
+    {
+        "id": "ocelot",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ocelot",
+                "description": "This user's fursona is an Ocelot!"
+            }
+        ]
+    },
+    {
+        "id": "pembroke-welsh-corgi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pembroke Welsh Corgi",
+                "description": "This user's fursona is a Pembroke Welsh Corgi!"
+            }
+        ]
+    },
+    {
+        "id": "cardigan-welsh-corgi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cardigan Welsh Corgi",
+                "description": "This user's fursona is a Cardigan Welsh Corgi!"
+            }
+        ]
+    },
+    {
+        "id": "beaver",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Beaver",
+                "description": "This user's fursona is a Beaver!"
+            }
+        ]
+    },
+    {
+        "id": "tayra",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Tayra",
+                "description": "This user's fursona is a Tayra! [Category: Mustelid]"
+            }
+        ]
+    },
+    {
+        "id": "golden-jackal",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Golden Jackal",
+                "description": "This user's fursona is a Golden Jackal!"
+            }
+        ]
+    },
+    {
+        "id": "teshari",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Teshari",
+                "description": "This user's fursona is a Teshari! https://ss13polaris.com/index.php?title=Teshari"
+            }
+        ]
+    },
+    {
+        "id": "yoshi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Yoshi",
+                "description": "This user's fursona is a Yoshi!"
+            }
+        ]
+    },
+    {
+        "id": "guinea-pig",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Guinea Pig",
+                "description": "This user's fursona is a Guinea Pig!"
+            }
+        ]
+    },
+    {
+        "id": "arctic-wolf",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Arctic Wolf",
+                "description": "This user's fursona is an Arctic Wolf! AKA: white wolf, polar wolf, Arctic grey wolf"
+            }
+        ]
+    },
+    {
+        "id": "tibetan-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Tibetan Fox",
+                "description": "This user's fursona is a Tibetan Fox! AKA: Tibetan sand fox"
+            }
+        ]
+    },
+    {
+        "id": "rexouium",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Rexouium",
+                "description": "This user's fursona is a Rexouium! #VRChat About: https://www.furaffinity.net/view/36134921/"
+            }
+        ]
+    },
+    {
+        "id": "housefly",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Housefly",
+                "description": "This user's fursona is a Housefly!"
+            }
+        ]
+    },
+    {
+        "id": "ninetales",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ninetales",
+                "description": "This user's fursona is a Ninetales! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "reindeer",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Reindeer/Caribou",
+                "description": "This user's fursona is a Reindeer/Caribou. https://en.wikipedia.org/wiki/Reindeer#Naming"
+            }
+        ]
+    },
+    {
+        "id": "taidum",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Taidum",
+                "description": "This user's fursona is a Taidum! #VRChat - https://en.wikifur.com/wiki/Taidum"
+            }
+        ]
+    },
+    {
+        "id": "bohemian-shepherd",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bohemian Shepherd",
+                "description": "This user's fursona is a Bohemian Shepherd!"
+            }
+        ]
+    },
+    {
+        "id": "obstagoon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Obstagoon",
+                "description": "This user's fursona is an Obstagoon! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "golden-eagle",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Golden Eagle",
+                "description": "This user's fursona is a Golden Eagle! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "genet",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Genet",
+                "description": "This user's fursona is a Genet!"
+            }
+        ]
+    },
+    {
+        "id": "wyvern",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Wyvern",
+                "description": "This user's fursona is a Wyvern!"
+            }
+        ]
+    },
+    {
+        "id": "heeler",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Heeler",
+                "description": "This user's fursona is a Heeler!"
+            }
+        ]
+    },
+    {
+        "id": "blue-heeler",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Blue Heeler",
+                "description": "This user's fursona is a Blue Heeler!"
+            }
+        ]
+    },
+    {
+        "id": "red-heeler",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Red Heeler",
+                "description": "This user's fursona is a Red Heeler!"
+            }
+        ]
+    },
+    {
+        "id": "carbuncle",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Carbuncle",
+                "description": "This user's fursona is a Carbuncle! [Category: Final Fantasy]; https://finalfantasy.fandom.com/wiki/Carbuncle_(summon)"
+            }
+        ]
+    },
+    {
+        "id": "alicorn",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Alicorn",
+                "description": "This user's fursona is an Alicorn! AKA: Winged Unicorn"
+            }
+        ]
+    },
+    {
+        "id": "pegasus",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pegasus",
+                "description": "This user's fursona is a Pegasus!"
+            }
+        ]
+    },
+    {
+        "id": "hyacinth-macaw",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hyacinth Macaw",
+                "description": "This user's fursona is a Hyacinth Macaw! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "digimon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Digimon",
+                "description": "This user's fursona is a Digimon!"
+            }
+        ]
+    },
+    {
+        "id": "slipfin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Slipfin",
+                "description": "This user's fursona is a Slipfin! #VRChat"
+            }
+        ]
+    },
+    {
+        "id": "goodra",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Goodra",
+                "description": "This user's fursona is a Goodra! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "bat-eared-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bat-Eared Fox",
+                "description": "This user's fursona is a Bat-Eared Fox!"
+            }
+        ]
+    },
+    {
+        "id": "werefox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Werefox",
+                "description": "This user's fursona is a Werefox!"
+            }
+        ]
+    },
+    {
+        "id": "orangutan",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Orangutan",
+                "description": "This user's fursona is an Orangutan!"
+            }
+        ]
+    },
+    {
+        "id": "bug",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bug",
+                "description": "This user's fursona is a Bug!"
+            }
+        ]
+    },
+    {
+        "id": "border-collie",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Border Collie",
+                "description": "This user's fursona is a Border Collie!"
+            }
+        ]
+    },
+    {
+        "id": "white-tiger",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "White Tiger",
+                "description": "This user's fursona is a White Tiger!"
+            }
+        ]
+    },
+    {
+        "id": "salandit",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Salandit",
+                "description": "This user's fursona is a Salandit! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "cacomistle",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cacomistle",
+                "description": "This user's fursona is a Cacomistle! [Category: Cacomistle]"
+            }
+        ]
+    },
+    {
+        "id": "ringtail",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ringtail",
+                "description": "This user's fursona is a Ringtail! [Category: Cacomistle]"
+            }
+        ]
+    },
+    {
+        "id": "kingfisher",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kingfisher",
+                "description": "This user's fursona is a Kingfisher! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "german-shepherd",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "German Shepherd",
+                "description": "This user's fursona is a German Shepherd!"
+            }
+        ]
+    },
+    {
+        "id": "lumex",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lumex",
+                "description": "This user's fursona is a Lumex! [Tags: open-species]"
+            }
+        ]
+    },
+    {
+        "id": "sphinx",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sphinx",
+                "description": "This user's fursona is a Sphinx!"
+            }
+        ]
+    },
+    {
+        "id": "synth",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Synth",
+                "description": "This user's fursona is a Synth!"
+            }
+        ]
+    },
+    {
+        "id": "turtle",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Turtle",
+                "description": "This user's fursona is a Turtle!"
+            }
+        ]
+    },
+    {
+        "id": "drake",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Drake",
+                "description": "This user's fursona is a Drake!"
+            }
+        ]
+    },
+    {
+        "id": "robot-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Robot Dragon",
+                "description": "This user's fursona is a Robot Dragon!"
+            }
+        ]
+    },
+    {
+        "id": "hare",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hare",
+                "description": "This user's fursona is a Hare! AKA: bunny"
+            }
+        ]
+    },
+    {
+        "id": "clown",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Clown",
+                "description": "This user's fursona is a Clown!"
+            }
+        ]
+    },
+    {
+        "id": "fisher",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Fisher",
+                "description": "This user's fursona is a Fisher! [Category: Mustelid]"
+            }
+        ]
+    },
+    {
+        "id": "lizardfolk",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lizardfolk",
+                "description": "This user's fursona is a Lizardfolk!"
+            }
+        ]
+    },
+    {
+        "id": "pikachu",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pikachu",
+                "description": "This user's fursona is a Pikachu! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "oni",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Oni",
+                "description": "This user's fursona is an Oni! [Category: Folklore]"
+            }
+        ]
+    },
+    {
+        "id": "merfolk",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Merfolk",
+                "description": "This user's fursona is a Merfolk!"
+            }
+        ]
+    },
+    {
+        "id": "clouded-leopard",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Clouded Leopard",
+                "description": "This user's fursona is a Clouded Leopard!"
+            }
+        ]
+    },
+    {
+        "id": "stellers-jay",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Steller's Jay",
+                "description": "This user's fursona is a Steller's Jay! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "troll",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Troll (Folklore)",
+                "description": "This user's fursona is a Troll! [Category: Folklore]"
+            }
+        ]
+    },
+    {
+        "id": "moth",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Moth",
+                "description": "This user's fursona is a Moth!"
+            }
+        ]
+    },
+    {
+        "id": "charmander",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Charmander",
+                "description": "This user's fursona is a Charmander! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "panther",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Panther",
+                "description": "This user's fursona is a Panther!"
+            }
+        ]
+    },
+    {
+        "id": "marsupial",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Marsupial",
+                "description": "This user's fursona is a Marsupial! [Category: Marsupial]"
+            }
+        ]
+    },
+    {
+        "id": "tasmanian-tiger",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Tasmanian Tiger",
+                "description": "This user's fursona is a Tasmanian Tiger! AKA: Thylacine [Category: Marsupial]"
+            }
+        ]
+    },
+    {
+        "id": "wolfdog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Wolfdog",
+                "description": "This user's fursona is a Wolfdog!"
+            }
+        ]
+    },
+    {
+        "id": "southern-ethiopian-wolf",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Southern Ethiopian Wolf",
+                "description": "This user's fursona is a Southern Ethiopian Wolf!"
+            }
+        ]
+    },
+    {
+        "id": "ampwave",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ampwave",
+                "description": "This user's fursona is an Ampwave! [Tags: open-species] https://www.ampwavespecies.com/"
+            }
+        ]
+    },
+    {
+        "id": "skunkbear",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Skunkbear",
+                "description": "This user's fursona is a Skunkbear!"
+            }
+        ]
+    },
+    {
+        "id": "zoroark",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Zoroark",
+                "description": "This user's fursona is a Zoroark! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "opossum",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Opossum",
+                "description": "This user's fursona is an Opossum! AKA: Possum [Category: Marsupial]"
+            }
+        ]
+    },
+    {
+        "id": "egyptian-cobra",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Egyptian Cobra",
+                "description": "This user's fursona is an Egyptian Cobra! [Category: Snake]"
+            }
+        ]
+    },
+    {
+        "id": "cobra",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cobra",
+                "description": "This user's fursona is a Cobra! [Category: Snake]"
+            }
+        ]
+    },
+    {
+        "id": "boa-constrictor",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Boa Constrictor",
+                "description": "This user's fursona is a Boa Constrictor! AKA: Common Boa. [Category: Snake]"
+            }
+        ]
+    },
+    {
+        "id": "amphibian",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Amphibian",
+                "description": "This user's fursona is an Amphibian!"
+            }
+        ]
+    },
+    {
+        "id": "bird-wyvern",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bird Wyvern",
+                "description": "This user's fursona is a Bird Wyvern! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "brute-wyvern",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Brute Wyvern",
+                "description": "This user's fursona is a Brute Wyvern! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "carapaceon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Carapaceon",
+                "description": "This user's fursona is a Carapaceon! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "fanged-beast",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Fanged Beast",
+                "description": "This user's fursona is a Fanged Beast! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "fanged-wyvern",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Fanged Wyvern",
+                "description": "This user's fursona is a Fanged Wyvern! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "herbivore",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Herbivore",
+                "description": "This user's fursona is a Herbivore!"
+            }
+        ]
+    },
+    {
+        "id": "flying-wyvern",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Flying Wyvern",
+                "description": "This user's fursona is a Flying Wyvern! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "lynian",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lynian",
+                "description": "This user's fursona is a Lynian! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "neopteron",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neopteron",
+                "description": "This user's fursona is a Neopteron! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "piscine-wyvern",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Piscine Wyvern",
+                "description": "This user's fursona is a Piscine Wyvern! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "snake-wyvern",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Snake Wyvern",
+                "description": "This user's fursona is a Snake Wyvern! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "temnoceran",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Temnoceran",
+                "description": "This user's fursona is a Temnoceran! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "wingdrake",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Wingdrake",
+                "description": "This user's fursona is a Wingdrake! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "leviathan",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Leviathan",
+                "description": "This user's fursona is a Leviathan! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "elder-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Elder Dragon",
+                "description": "This user's fursona is an Elder Dragon! [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "canterwit",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Canterwit",
+                "description": "This user's fursona is a Canterwit! [Tags: closed-species] https://canterwit.weebly.com/introduction.html"
+            }
+        ]
+    },
+    {
+        "id": "furred-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Furred Dragon",
+                "description": "This user's fursona is a Furred Dragon!"
+            }
+        ]
+    },
+    {
+        "id": "eastern-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Eastern Dragon",
+                "description": "This user's fursona is an Eastern Dragon!"
+            }
+        ]
+    },
+    {
+        "id": "arctic-hare",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Arctic Hare",
+                "description": "This user's fursona is an Arctic Hare!"
+            }
+        ]
+    },
+    {
+        "id": "koopa",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Koopa",
+                "description": "This user's fursona is a Koopa!"
+            }
+        ]
+    },
+    {
+        "id": "jerboa",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Jerboa",
+                "description": "This user's fursona is a Jerboa!"
+            }
+        ]
+    },
+    {
+        "id": "arcanine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Arcanine",
+                "description": "This user's fursona is an Arcanine! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "monster-girl",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Monster Girl",
+                "description": "This user's fursona is a Monster Girl!"
+            }
+        ]
+    },
+    {
+        "id": "skaven",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Skaven",
+                "description": "This user's fursona is a Skaven!"
+            }
+        ]
+    },
+    {
+        "id": "wererat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Wererat",
+                "description": "This user's fursona is a Wererat!"
+            }
+        ]
+    },
+    {
+        "id": "sylveon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sylveon",
+                "description": "This user's fursona is a Sylveon! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "puffball",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Puffball",
+                "description": "This user's fursona is a Puffball! (think: Kirby)"
+            }
+        ]
+    },
+    {
+        "id": "cozumel-raccoon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cozumel Raccoon",
+                "description": "This user's fursona is a Cozumel Raccoon!"
+            }
+        ]
+    },
+    {
+        "id": "malagasy-giant-rat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Malagasy Giant Rat",
+                "description": "This user's fursona is a Malagasy Giant Rat!"
+            }
+        ]
+    },
+    {
+        "id": "inkblot-toon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Inkblot Toon",
+                "description": "This user's fursona is an Inkblot Toon!"
+            }
+        ]
+    },
+    {
+        "id": "anomalocaris",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Anomalocaris",
+                "description": "This user's fursona is an Anomalocaris!"
+            }
+        ]
+    },
+    {
+        "id": "manticore",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Manticore",
+                "description": "This user's fursona is a Manticore!"
+            }
+        ]
+    },
+    {
+        "id": "scottish-fold-munchkin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Scottish Fold Munchkin",
+                "description": "This user's fursona is a Scottish Fold Munchkin!"
+            }
+        ]
+    },
+    {
+        "id": "striped-hyena",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Striped Hyena",
+                "description": "This user's fursona is a Striped Hyena!"
+            }
+        ]
+    },
+    {
+        "id": "brown-hyena",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Brown Hyena",
+                "description": "This user's fursona is a Brown Hyena!"
+            }
+        ]
+    },
+    {
+        "id": "vulpix",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Vulpix",
+                "description": "This user's fursona is a Vulpix! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "flamingo",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Flamingo",
+                "description": "This user's fursona is a Flamingo! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "plant",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Plant",
+                "description": "This user's fursona is a Plant!"
+            }
+        ]
+    },
+    {
+        "id": "argonian",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Argonian",
+                "description": "This user's fursona is an Argonian!"
+            }
+        ]
+    },
+    {
+        "id": "lombax",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lombax",
+                "description": "This user's fursona is a Lombax!"
+            }
+        ]
+    },
+    {
+        "id": "nargacuga",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Nargacuga",
+                "description": "This user's fursona is a Nargacuga!  [Category: Monster Hunter]"
+            }
+        ]
+    },
+    {
+        "id": "swampert",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Swampert",
+                "description": "This user's fursona is a Swampert! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "vaporeon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Vaporeon",
+                "description": "This user's fursona is a Vaporeon!  [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "stingray",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Stingray",
+                "description": "This user's fursona is a Stingray!"
+            }
+        ]
+    },
+    {
+        "id": "seagull",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Seagull",
+                "description": "This user's fursona is a Seagull! AKA: Gull.  [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "triceratops",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Triceratops",
+                "description": "This user's fursona is a Triceratops!"
+            }
+        ]
+    },
+    {
+        "id": "australian-shepherd",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Australian Shepherd",
+                "description": "This user's fursona is an Australian Shepherd!"
+            }
+        ]
+    },
+    {
+        "id": "hrothgar",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hrothgar",
+                "description": "This user's fursona is a Hrothgar!"
+            }
+        ]
+    },
+    {
+        "id": "greyhound",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Greyhound",
+                "description": "This user's fursona is a Greyhound!"
+            }
+        ]
+    },
+    {
+        "id": "umbreon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Umbreon",
+                "description": "This user's fursona is an Umbreon! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "platinum-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Platinum Fox",
+                "description": "This user's fursona is a Platinum Fox! AKA: Silver Fox, Black Fox, Blue Fox"
+            }
+        ]
+    },
+    {
+        "id": "bandicoot",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bandicoot",
+                "description": "This user's fursona is a Bandicoot! [Category: Marsupial]"
+            }
+        ]
+    },
+    {
+        "id": "koala",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Koala",
+                "description": "This user's fursona is a Koala! [Category: Marsupial]"
+            }
+        ]
+    },
+    {
+        "id": "potoroo",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Potoroo",
+                "description": "This user's fursona is a Potoroo! [Category: Marsupial]"
+            }
+        ]
+    },
+    {
+        "id": "sugar-glider",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sugar Glider",
+                "description": "This user's fursona is a Sugar Glider! [Category: Marsupial]"
+            }
+        ]
+    },
+    {
+        "id": "cougar",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cougar",
+                "description": "This user's fursona is a Cougar!"
+            }
+        ]
+    },
+    {
+        "id": "buizel",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Buizel",
+                "description": "This user's fursona is a Buizel! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "lupe",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lupe",
+                "description": "This user's fursona is a Lupe! [Category: Neopet]"
+            }
+        ]
+    },
+    {
+        "id": "aisha",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Aisha",
+                "description": "This user's fursona is an Aisha! [Category: Neopet]"
+            }
+        ]
+    },
+    {
+        "id": "bori",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bori",
+                "description": "This user's fursona is a Bori! [Category: Neopet]"
+            }
+        ]
+    },
+    {
+        "id": "ixi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ixi",
+                "description": "This user's fursona is an Ixi! [Category: Neopet]"
+            }
+        ]
+    },
+    {
+        "id": "kougra",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kougra",
+                "description": "This user's fursona is a Kougra! [Category: Neopet]"
+            }
+        ]
+    },
+    {
+        "id": "xweetok",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Xweetok",
+                "description": "This user's fursona is a Xweetok! [Category: Neopet]"
+            }
+        ]
+    },
+    {
+        "id": "zafara",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Zafara",
+                "description": "This user's fursona is a Zafara! [Category: Neopet]"
+            }
+        ]
+    },
+    {
+        "id": "sabertooth-liger",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sabertooth Liger",
+                "description": "This user's fursona is a Sabertooth Liger!"
+            }
+        ]
+    },
+    {
+        "id": "grey-wolf",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Grey Wolf",
+                "description": "This user's fursona is a Grey Wolf!"
+            }
+        ]
+    },
+    {
+        "id": "borzoi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Borzoi",
+                "description": "This user's fursona is a Borzoi!"
+            }
+        ]
+    },
+    {
+        "id": "fossa",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Fossa",
+                "description": "This user's fursona is a Fossa!"
+            }
+        ]
+    },
+    {
+        "id": "cross-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cross Fox",
+                "description": "This user's fursona is a Cross Fox!"
+            }
+        ]
+    },
+    {
+        "id": "gray-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gray Fox",
+                "description": "This user's fursona is a Gray Fox!"
+            }
+        ]
+    },
+    {
+        "id": "island-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Island Fox",
+                "description": "This user's fursona is an Island Fox!"
+            }
+        ]
+    },
+    {
+        "id": "satyr",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Satyr",
+                "description": "This user's fursona is a Satyr!"
+            }
+        ]
+    },
+    {
+        "id": "pony",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pony",
+                "description": "This user's fursona is a Pony!"
+            }
+        ]
+    },
+    {
+        "id": "radioactive",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Radioactive",
+                "description": "☢️This user's fursona is radioactive☢️"
+            }
+        ]
+    },
+    {
+        "id": "dovekie",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dovekie",
+                "description": "This user's fursona is a Dovekie! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "human",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Human",
+                "description": "This user might not necessarily have a fursona, but they're supportive of furries/the fandom!"
+            }
+        ]
+    },
+    {
+        "id": "chocobo",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Chocobo",
+                "description": "This user's fursona is a Chocobo! [Category: Final Fantasy]"
+            }
+        ]
+    },
+    {
+        "id": "chao",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Chao",
+                "description": "This user's fursona is a Chao! [Category: Sonic the Hedgehog]"
+            }
+        ]
+    },
+    {
+        "id": "binturong",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Binturong",
+                "description": "This user's fursona is a Binturong!"
+            }
+        ]
+    },
+    {
+        "id": "dryad",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dryad",
+                "description": "This user's fursona is a Dryad!"
+            }
+        ]
+    },
+    {
+        "id": "nimbat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Nimbat",
+                "description": "This user's fursona is a Nimbat! (from Dust: An Elysian Tail)"
+            }
+        ]
+    },
+    {
+        "id": "gieeg",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gieeg",
+                "description": "This user's fursona is a Gieeg! AKA: Geeg. From Earthbound."
+            }
+        ]
+    },
+    {
+        "id": "pup",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pup",
+                "description": "This user is a pup!"
+            }
+        ]
+    },
+    {
+        "id": "multiple-characters",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Multi-Character",
+                "description": "This user has multiple characters/fursonas! [Category: Meta]"
+            }
+        ]
+    },
+    {
+        "id": "multiple-forms",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Multi-Form",
+                "description": "This user's fursona may take multiple forms! For example, they may sometimes be depicted as one species, and other times as another. See other labels! [Category: Meta]"
+            }
+        ]
+    },
+    {
+        "id": "leopard-gecko",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Leopard Gecko",
+                "description": "This user's fursona is a Leopard Gecko!"
+            }
+        ]
+    },
+    {
+        "id": "slugcat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Slugcat",
+                "description": "This user's fursona is a Slugcat!"
+            }
+        ]
+    },
+    {
+        "id": "vulture",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Vulture",
+                "description": "This user's fursona is a Vulture! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "bearded-vulture",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bearded Vulture",
+                "description": "This user's fursona is a Bearded Vulture! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "cape-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cape Fox",
+                "description": "This user's fursona is a Cape Fox! AKA: asse, cama fox or silver-backed fox"
+            }
+        ]
+    },
+    {
+        "id": "salmonid",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Salmonid",
+                "description": "This user's fursona is a Salmonid! from Splatoon (video game)"
+            }
+        ]
+    },
+    {
+        "id": "hobkin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hobkin",
+                "description": "This user's fursona is a Hobkin! #VRChat https://en.wikifur.com/wiki/Hobkin"
+            }
+        ]
+    },
+    {
+        "id": "chipori",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Chipori",
+                "description": "This user's fursona is a Chipori! #VRChat"
+            }
+        ]
+    },
+    {
+        "id": "slime",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Slime",
+                "description": "This user's fursona is a Slime!"
+            }
+        ]
+    },
+    {
+        "id": "quaker-parrot",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Quaker Parrot",
+                "description": "This user's fursona is a Quaker Parrot! [Category: Avian/Bird] AKA: monk parakeet, monk parrot"
+            }
+        ]
+    },
+    {
+        "id": "nardoragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Nardoragon",
+                "description": "This user's fursona is a Nardoragon! #VRChat"
+            }
+        ]
+    },
+    {
+        "id": "caitian",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Caitian",
+                "description": "This user's fursona is a Caitian! [Category: Star Trek]"
+            }
+        ]
+    },
+    {
+        "id": "gorn",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gorn",
+                "description": "This user's fursona is a Gorn! [Category: Star Trek]"
+            }
+        ]
+    },
+    {
+        "id": "zora",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Zora",
+                "description": "This user's fursona is a Zora! [Category: The Legend of Zelda]"
+            }
+        ]
+    },
+    {
+        "id": "rito",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Rito",
+                "description": "This user's fursona is a Rito! [Category: The Legend of Zelda]"
+            }
+        ]
+    },
+    {
+        "id": "faun",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Faun",
+                "description": "This user's fursona is a Faun!"
+            }
+        ]
+    },
+    {
+        "id": "winged",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Winged",
+                "description": "This user's fursona is winged (meaning they have wings)!"
+            }
+        ]
+    },
+    {
+        "id": "soundbyte",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Soundbyte",
+                "description": "This user's fursona is a Soundbyte! #VRChat"
+            }
+        ]
+    },
+    {
+        "id": "purobyte",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Purobyte",
+                "description": "This user's fursona is a Purobyte! #VRChat"
+            }
+        ]
+    },
+    {
+        "id": "mongoose",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mongoose",
+                "description": "This user's fursona is a Mongoose!"
+            }
+        ]
+    },
+    {
+        "id": "felkin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Felkin",
+                "description": "This user's fursona is a Felkin! [Tags: closed-species] https://www.deviantart.com/leachymonster/art/Official-Felkin-Species-Guide-522020670, https://cloud.refsheet.net/images/images/000/847/307/medium/1576090003.xenoforge_felkin__ref_2018.png?1619652249"
+            }
+        ]
+    },
+    {
+        "id": "cockatiel",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cockatiel",
+                "description": "This user's fursona is a Cockatiel! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "pronghorn",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pronghorn",
+                "description": "This user's fursona is a Pronghorn!"
+            }
+        ]
+    },
+    {
+        "id": "pudu",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pudu",
+                "description": "This user's fursona is a Pudu!"
+            }
+        ]
+    },
+    {
+        "id": "orc",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Orc",
+                "description": "This user's fursona is an Orc!"
+            }
+        ]
+    },
+    {
+        "id": "skiltaire",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Skiltaire",
+                "description": "This user's fursona is a Skiltaire! AKA: Skiltare. https://en.wikifur.com/wiki/Skiltaire. Created by Mark Merlino (Sylys Sable) in 1971."
+            }
+        ]
+    },
+    {
+        "id": "mobian",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mobian",
+                "description": "This user's fursona is a Mobian! [Category: Sonic the Hedgehog]"
+            }
+        ]
+    },
+    {
+        "id": "cornerian",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cornerian",
+                "description": "This user's fursona is a Cornerian! [Category: Star Fox]"
+            }
+        ]
+    },
+    {
+        "id": "allosaurus",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Allosaurus",
+                "description": "This user's fursona is an Allosaurus! [Category: Dinosaur]"
+            }
+        ]
+    },
+    {
+        "id": "dragonborn",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dragonborn",
+                "description": "This user's fursona is a Dragonborn! [Category: D&D]"
+            }
+        ]
+    },
+    {
+        "id": "worgen",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Worgen",
+                "description": "This user's fursona is a Worgen! [Category: World of Warcraft]"
+            }
+        ]
+    },
+    {
+        "id": "drone",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Drone",
+                "description": "This user's fursona is a Drone! [Modifier]"
+            }
+        ]
+    },
+    {
+        "id": "samurott",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Samurott",
+                "description": "This user's fursona is a Samurott! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "iguana",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Iguana",
+                "description": "This user's fursona is an Iguana!"
+            }
+        ]
+    },
+    {
+        "id": "bearded-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bearded Dragon",
+                "description": "This user's fursona is a Bearded Dragon!"
+            }
+        ]
+    },
+    {
+        "id": "bat-pony",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bat Pony",
+                "description": "This user's fursona is a Bat Pony! [Category: My Little Pony]"
+            }
+        ]
+    },
+    {
+        "id": "sandwing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sandwing",
+                "description": "This user's fursona is a Sandwing! [Category: Wings of Fire] Pyrrhian Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "icewing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Icewing",
+                "description": "This user's fursona is an Icewing! [Category: Wings of Fire] Pyrrhian Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "rainwing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Rainwing",
+                "description": "This user's fursona is a Rainwing! [Category: Wings of Fire] Pyrrhian Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "nightwing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Nightwing",
+                "description": "This user's fursona is a Nightwing! [Category: Wings of Fire] Pyrrhian Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "mudwing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mudwing",
+                "description": "This user's fursona is a Mudwing! [Category: Wings of Fire] Pyrrhian Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "skywing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Skywing",
+                "description": "This user's fursona is a Skywing! [Category: Wings of Fire] Pyrrhian Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "seawing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Seawing",
+                "description": "This user's fursona is a Seawing! [Category: Wings of Fire] Pyrrhian Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "silkwing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Silkwing",
+                "description": "This user's fursona is a Silkwing! [Category: Wings of Fire] Pantalan Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "hivewing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hivewing",
+                "description": "This user's fursona is a Hivewing! [Category: Wings of Fire] Pantalan Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "leafwing",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Leafwing",
+                "description": "This user's fursona is a Leafwing! [Category: Wings of Fire] Pantalan Dragon Tribes"
+            }
+        ]
+    },
+    {
+        "id": "dobermann",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dobermann",
+                "description": "This user's fursona is a Dobermann!"
+            }
+        ]
+    },
+    {
+        "id": "samoyed",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Samoyed",
+                "description": "This user's fursona is a Samoyed!"
+            }
+        ]
+    },
+    {
+        "id": "luxray",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Luxray",
+                "description": "This user's fursona is a Luxray! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "solgaleo",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Solgaleo",
+                "description": "This user's fursona is a Solgaleo! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "mew",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mew",
+                "description": "This user's fursona is a Mew! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "pooka",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pooka",
+                "description": "This user's fursona is a Pooka! [Category: Odin Sphere] #videogame #lagomorph #alien #shapeshifter"
+            }
+        ]
+    },
+    {
+        "id": "rottweiler",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Rottweiler",
+                "description": "This user's fursona is a Rottweiler!"
+            }
+        ]
+    },
+    {
+        "id": "succubus",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Succubus",
+                "description": "This user's fursona is a Succubus! [Category: Folklore]"
+            }
+        ]
+    },
+    {
+        "id": "dramster",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dramster",
+                "description": "This user's fursona is a Dramster! https://bsky.app/profile/dramsterden.bsky.social [Tags: open-species]"
+            }
+        ]
+    },
+    {
+        "id": "time-lord",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Time Lord",
+                "description": "This user's fursona is a Time Lord! [Category: Doctor Who] Combine with other species labels."
+            }
+        ]
+    },
+    {
+        "id": "iberian-lynx",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Iberian Lynx",
+                "description": "This user's fursona is an Iberian Lynx!"
+            }
+        ]
+    },
+    {
+        "id": "amphimorpho",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Amphimorpho",
+                "description": "This user's fursona is an Amphimorpho! https://amphimorpho.carrd.co/#info  [Tags: open-species]"
+            }
+        ]
+    },
+    {
+        "id": "displacer-beast",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Displacer Beast",
+                "description": "This user's fursona is a Displacer Beast! [Category: D&D] https://www.aidedd.org/dnd/monstres.php?vo=displacer-beast"
+            }
+        ]
+    },
+    {
+        "id": "totodile",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Totodile",
+                "description": "This user's fursona is a Totodile! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "glitchy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Glitchy",
+                "description": "This user's fursona is glitchy! (in regards to a protogen or other cybernetic species) [Tag: modifier]"
+            }
+        ]
+    },
+    {
+        "id": "sable",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sable",
+                "description": "This user's fursona is a Sable!"
+            }
+        ]
+    },
+    {
+        "id": "inca-ren",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Inca-Ren",
+                "description": "This user's fursona is an Inca-Ren! [Tags: open-species] https://www.furaffinity.net/view/4063389/"
+            }
+        ]
+    },
+    {
+        "id": "peryton",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peryton",
+                "description": "This user's fursona is a Peryton!"
+            }
+        ]
+    },
+    {
+        "id": "faerie",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Faerie",
+                "description": "This user's fursona is a Faerie! AKA: Fairy [Category: Folklore]"
+            }
+        ]
+    },
+    {
+        "id": "valravn",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Valravn",
+                "description": "This user's fursona is a Valravn! [Category: Folklore]"
+            }
+        ]
+    },
+    {
+        "id": "seraph",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Seraph",
+                "description": "This user's fursona is a Seraph!"
+            }
+        ]
+    },
+    {
+        "id": "werecreature",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Werecreature",
+                "description": "This user's fursona is a Werecreature!"
+            }
+        ]
+    },
+    {
+        "id": "burmecian",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Burmecian",
+                "description": "This user's fursona is a Burmecian! [Category: Final Fantasy]; https://finalfantasy.fandom.com/wiki/Burmecian"
+            }
+        ]
+    },
+    {
+        "id": "absol",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Absol",
+                "description": "This user's fursona is an Absol! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "minotaur",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Minotaur",
+                "description": "This user's fursona is a Minotaur!"
+            }
+        ]
+    },
+    {
+        "id": "bull",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bull",
+                "description": "This user's fursona is a Bull!"
+            }
+        ]
+    },
+    {
+        "id": "albatross",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Albatross",
+                "description": "This user's fursona is an Albatross! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "mystian",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mystian",
+                "description": "This user's fursona is a Mystian! [Tags: open-species]"
+            }
+        ]
+    },
+    {
+        "id": "swift-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Swift Fox",
+                "description": "This user's fursona is a Swift Fox!"
+            }
+        ]
+    },
+    {
+        "id": "kangaroo-rat",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kangaroo Rat",
+                "description": "This user's fursona is a Kangaroo Rat!"
+            }
+        ]
+    },
+    {
+        "id": "digital-creature",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Digital Creature",
+                "description": "This user's fursona is a Digital Creature! AKA: Computer Program"
+            }
+        ]
+    },
+    {
+        "id": "computer-virus",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Computer Virus",
+                "description": "This user's fursona is a Computer Virus! AKA: Malware"
+            }
+        ]
+    },
+    {
+        "id": "slug",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Slug",
+                "description": "This user's fursona is a Slug!"
+            }
+        ]
+    },
+    {
+        "id": "sea-slug",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sea Slug",
+                "description": "This user's fursona is a Sea Slug!"
+            }
+        ]
+    },
+    {
+        "id": "eurasian-eagle-owl",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Eurasian Eagle Owl",
+                "description": "This user's fursona is an Eurasian Eagle Owl! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "flying-fox",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Flying Fox",
+                "description": "This user's fursona is a Flying Fox! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "guardian-spirit",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Spirit (Ori)",
+                "description": "This user's fursona is a Spirit! AKA: Guardian Spirit. From the Ori video games."
+            }
+        ]
+    },
+    {
+        "id": "bernese-mountain-dog",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bernese Mountain Dog",
+                "description": "This user's fursona is a Bernese Mountain Dog!"
+            }
+        ]
+    },
+    {
+        "id": "bangaa",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bangaa",
+                "description": "This user's fursona is a Bangaa! [Category: Final Fantasy] https://finalfantasy.fandom.com/wiki/Bangaa"
+            }
+        ]
+    },
+    {
+        "id": "wickerbeast",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Wickerbeast",
+                "description": "This user's fursona is a Wickerbeast! #VRChat https://www.wickercave.net/ [Tags: open-species]"
+            }
+        ]
+    },
+    {
+        "id": "alaskan-malamute",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Malamute",
+                "description": "This user's fursona is an Alaskan Malamute!"
+            }
+        ]
+    },
+    {
+        "id": "monitor-lizard",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Monitor Lizard",
+                "description": "This user's fursona is a Monitor Lizard!"
+            }
+        ]
+    },
+    {
+        "id": "blue-tongued-skink",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Blue-Tongued Skink",
+                "description": "This user's fursona is a Blue-Tongued Skink!"
+            }
+        ]
+    },
+    {
+        "id": "living-vehicle",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Living Vehicle",
+                "description": "This user's fursona is a Living Vehicle!"
+            }
+        ]
+    },
+    {
+        "id": "balinese",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Balinese",
+                "description": "This user's fursona is a Balinese cat!"
+            }
+        ]
+    },
+    {
+        "id": "siamese",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Siamese",
+                "description": "This user's fursona is a Siamese cat!"
+            }
+        ]
+    },
+    {
+        "id": "bison",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Bison",
+                "description": "This user's fursona is a Bison!"
+            }
+        ]
+    },
+    {
+        "id": "mewlin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mewlin",
+                "description": "This user's fursona is a Mewlin! #VRChat"
+            }
+        ]
+    },
+    {
+        "id": "great-pyrenees",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Great Pyrenees",
+                "description": "This user's fursona is a Great Pyrenees! AKA: Pyrenean Mountain Dog, Chien de Montagne des Pyrénées, Patou"
+            }
+        ]
+    },
+    {
+        "id": "charr",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Charr",
+                "description": "This user's fursona is a Charr! (from Guild Wars)"
+            }
+        ]
+    },
+    {
+        "id": "mule",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mule",
+                "description": "This user's fursona is a Mule!"
+            }
+        ]
+    },
+    {
+        "id": "ender-dragon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ender Dragon",
+                "description": "This user's fursona is an Ender Dragon!"
+            }
+        ]
+    }
+]
