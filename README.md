@@ -32,7 +32,7 @@ Start:
             {
                 "lang": "en",
                 "name": "Rabbit",
-                "description": "This user's fursona is a Rabbit! AKA: bunny, bnuy, bun"
+                "description": "This user is a Rabbit! AKA: bunny, bnuy, bun"
             }
         ]
     },
@@ -51,13 +51,13 @@ Add BR Portuguese:
             {
                 "lang": "en",
                 "name": "Rabbit",
-                "description": "This user's fursona is a Rabbit! AKA: bunny, bnuy, bun"
+                "description": "This user is a Rabbit! AKA: bunny, bnuy, bun"
             },
             // NEW translation below; includes the original English in the AKA section, but this is not required.
             {
                 "lang": "pt-BR",
                 "name": "Coelha/Coelho",
-                "description": "A fursona deste usuário é um coelho! AKA: rabbit, bunny, bnuy, bun"
+                "description": "Este usuário é um Coelho!! AKA: rabbit, bunny, bnuy, bun"
             }
         ]
     },
