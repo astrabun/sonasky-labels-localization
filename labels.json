@@ -10,7 +10,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Coelha/Coelho",
-                "description": "Este usuário é um Coelho!! AKA: rabbit, bunny, bnuy, bun"
+                "description": "Este usuário é um Coelho! AKA: Coelho, Coelinho."
             }
         ]
     },
@@ -21,6 +21,11 @@
                 "lang": "en",
                 "name": "Fox",
                 "description": "This user is a Fox!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Raposa",
+                "description": "Este usuário é uma Raposa! AKA: Raposo, Raposa, Raposinho, Raposinha."
             }
         ]
     },
@@ -31,6 +36,11 @@
                 "lang": "en",
                 "name": "Red Panda",
                 "description": "This user is a Red Panda! AKA: wah"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Panda Vermelho",
+                "description": "Este usuário é um Panda vermelho!"
             }
         ]
     },
@@ -41,6 +51,11 @@
                 "lang": "en",
                 "name": "Deer",
                 "description": "This user is a Deer! Bleat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Veado",
+                "description": "Este usuário é um Veado!"
             }
         ]
     },
@@ -51,6 +66,11 @@
                 "lang": "en",
                 "name": "Pokemon",
                 "description": "This user is a Pokemon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pokémon",
+                "description": "Este usuário é um Pokémon! Qualquer tipo!"
             }
         ]
     },
@@ -61,6 +81,11 @@
                 "lang": "en",
                 "name": "Dog",
                 "description": "This user is a Dog! (AKA: puppy, doggo, pupper)"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cachorro",
+                "description": "Este usuário é um Cachorro! AKA: Cachorrinho, Doguinho."
             }
         ]
     },
@@ -71,6 +96,11 @@
                 "lang": "en",
                 "name": "Dragon",
                 "description": "This user is a Dragon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Dragão",
+                "description": "Este usuário é um Dragão!"
             }
         ]
     },
@@ -81,6 +111,11 @@
                 "lang": "en",
                 "name": "Skunk",
                 "description": "This user is a Skunk!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Gambá",
+                "description": "Este usuário é um Gambá! "
             }
         ]
     },
@@ -91,6 +126,11 @@
                 "lang": "en",
                 "name": "Hyena",
                 "description": "This user is a Hyena!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Hiena",
+                "description": "Este usuário é uma Hiena!"
             }
         ]
     },
@@ -101,6 +141,11 @@
                 "lang": "en",
                 "name": "Horse",
                 "description": "This user is a Horse!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cavalo",
+                "description": "Este usuário é um Cavalo!"
             }
         ]
     },
@@ -111,6 +156,11 @@
                 "lang": "en",
                 "name": "Bear",
                 "description": "This user is a Bear!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Urso",
+                "description": "Este usuário é um Urso! Qualquer tipo de urso!"
             }
         ]
     },
@@ -121,6 +171,11 @@
                 "lang": "en",
                 "name": "Otter",
                 "description": "This user is an Otter!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lontra",
+                "description": "Este usuário é uma Lontra! AKA: Leão-marinho."
             }
         ]
     },
@@ -131,6 +186,11 @@
                 "lang": "en",
                 "name": "Bird",
                 "description": "This user is a Bird!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pássaro",
+                "description": "Este usuário é um Pássaro! AKA: Piriquito, Piu."
             }
         ]
     },
@@ -141,6 +201,11 @@
                 "lang": "en",
                 "name": "Raccoon",
                 "description": "This user is a Raccoon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Guaxinim",
+                "description": "Este usuário é um Guaxinim! AKA: Guaxo"
             }
         ]
     },
@@ -151,6 +216,11 @@
                 "lang": "en",
                 "name": "Mouse",
                 "description": "This user is a Mouse!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Roedor",
+                "description": "Este usuário é um Roedor! AKA: Rato."
             }
         ]
     },
@@ -161,6 +231,11 @@
                 "lang": "en",
                 "name": "Rat",
                 "description": "This user is a Rat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Rato",
+                "description": "Este usuário é um Rato!"
             }
         ]
     },
@@ -171,6 +246,11 @@
                 "lang": "en",
                 "name": "Cat",
                 "description": "This user is a Cat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Gato",
+                "description": "Este usuário é um Gato! AKA: Gatinho."
             }
         ]
     },
@@ -181,6 +261,11 @@
                 "lang": "en",
                 "name": "Big Cat",
                 "description": "This user is a Big Cat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Gato Grande",
+                "description": "Este usuário é um Gato Grande! AKA: Gatão, Onças"
             }
         ]
     },
@@ -191,6 +276,11 @@
                 "lang": "en",
                 "name": "Wolf",
                 "description": "This user is a Wolf!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lobo",
+                "description": "Este usuário é um Lobo! AKA: Lobão, Lobinho."
             }
         ]
     },
@@ -201,6 +291,11 @@
                 "lang": "en",
                 "name": "Hybrid",
                 "description": "This user is a Hybrid!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Híbrido",
+                "description": "Este usuário é um Híbrido!"
             }
         ]
     },
@@ -211,6 +306,11 @@
                 "lang": "en",
                 "name": "Protogen",
                 "description": "This user is a Protogen! Beep-boop."
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Protogen",
+                "description": "Este usuário é um Protogen! AKA: Torradeira."
             }
         ]
     },
@@ -221,6 +321,11 @@
                 "lang": "en",
                 "name": "Kan'vi",
                 "description": "This user is a Kan'vi! https://kanvi.carrd.co/ [Tags: open-species]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Kan'vi",
+                "description": "Este usuário é um Kan'vi! https://kanvi.carrd.co/ [Tags: livre-espécie]"
             }
         ]
     },
@@ -231,6 +336,11 @@
                 "lang": "en",
                 "name": "Taur",
                 "description": "This user is a Taur! (See other labels to see what kind)"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Touro",
+                "description": "Este usuário é um Touro! (Verifique as outras tags para o tipo.)"
             }
         ]
     },
@@ -241,6 +351,11 @@
                 "lang": "en",
                 "name": "Snake",
                 "description": "This user is a Snake! [Category: Snake]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cobra",
+                "description": "Este usuário é uma Cobra! [Category: Cobra]"
             }
         ]
     },
@@ -251,6 +366,11 @@
                 "lang": "en",
                 "name": "Shark",
                 "description": "This user is a Shark!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Tubarão",
+                "description": "Este usuário é um Tubarão! AKA: Tubas."
             }
         ]
     },
@@ -261,6 +381,11 @@
                 "lang": "en",
                 "name": "Sergal",
                 "description": "This user is a Sergal!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Sergal",
+                "description": "Este usuário é um Sergal!"
             }
         ]
     },
@@ -271,6 +396,11 @@
                 "lang": "en",
                 "name": "Orca",
                 "description": "This user is an Orca!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Orca",
+                "description": "Este usuário é uma Orca!"
             }
         ]
     },
@@ -281,6 +411,11 @@
                 "lang": "en",
                 "name": "Seal",
                 "description": "This user is a Seal!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Foca",
+                "description": "Este usuário é uma Foca! AKA: Foca-Marinha."
             }
         ]
     },
@@ -291,6 +426,11 @@
                 "lang": "en",
                 "name": "Tiger",
                 "description": "This user is a Tiger!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Tigre",
+                "description": "Este usuário é um Tigre!"
             }
         ]
     },
@@ -311,6 +451,11 @@
                 "lang": "en",
                 "name": "Capybara",
                 "description": "This user is a Capybara!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Capivara",
+                "description": "Este usuário é uma Capivara! AKA: Capi."
             }
         ]
     },
@@ -321,6 +466,11 @@
                 "lang": "en",
                 "name": "Jackal",
                 "description": "This user is a Jackal!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Chacal",
+                "description": "Este usuário é um Chacal! AKA: Lacaio."
             }
         ]
     },
@@ -331,6 +481,11 @@
                 "lang": "en",
                 "name": "Yinglet",
                 "description": "This user is a Yinglet! https://en.wikifur.com/wiki/Out-of-Placers"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Yinglet",
+                "description": "Este usuário é um Yinglet! https://en.wikifur.com/wiki/Out-of-Placers"
             }
         ]
     },
@@ -341,6 +496,11 @@
                 "lang": "en",
                 "name": "Kangaroo",
                 "description": "This user is a Kangaroo!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Canguru",
+                "description": "Este usuário é um Canguru!"
             }
         ]
     },
@@ -351,6 +511,11 @@
                 "lang": "en",
                 "name": "Coyote",
                 "description": "This user is a Coyote!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Coiote",
+                "description": "Este usuário é um Coiote! AKA: Lobo da América."
             }
         ]
     },
@@ -361,6 +526,11 @@
                 "lang": "en",
                 "name": "Squirrel",
                 "description": "This user is a Squirrel!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Esquilo",
+                "description": "Este usuário é um Esquilo! AKA: Roedor."
             }
         ]
     },
@@ -371,6 +541,11 @@
                 "lang": "en",
                 "name": "Cheetah",
                 "description": "This user is a Cheetah!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Leopardo",
+                "description": "Este usuário é um Leopardo! AKA: Pantera, Chita."
             }
         ]
     },
@@ -381,6 +556,11 @@
                 "lang": "en",
                 "name": "Snow Leopard",
                 "description": "This user is a Snow Leopard!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Leopardo da neve",
+                "description": "Este usuário é um Leopardo da Neve!"
             }
         ]
     },
@@ -391,6 +571,11 @@
                 "lang": "en",
                 "name": "Possum",
                 "description": "This user is a Possum! (Phalangeriformes; NOT the same as an opossum which is sometimes called \"possum\" as well in North America)"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Possum",
+                "description": "Este usuário é um Possum! (Alternativos: Diferente do outro nomeado de \"Opossum\" e derivados.)"
             }
         ]
     },
@@ -401,6 +586,11 @@
                 "lang": "en",
                 "name": "Bat",
                 "description": "This user is a Bat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Morcego",
+                "description": "Este usuário é um Morcego!"
             }
         ]
     },
@@ -411,6 +601,11 @@
                 "lang": "en",
                 "name": "Mustelid",
                 "description": "This user is a Mustelid! [Category: Mustelid]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Texugo",
+                "description": "Este usuário é um Téxugo! AKA: Lontras, Doninhas, Furões e derivados."
             }
         ]
     },
@@ -421,6 +616,11 @@
                 "lang": "en",
                 "name": "Marten",
                 "description": "This user is a Marten! [Category: Mustelid]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Marto",
+                "description": "Este usuário é um Marto! [Category: Marto]"
             }
         ]
     },
@@ -441,6 +641,11 @@
                 "lang": "en",
                 "name": "Weasel",
                 "description": "This user is a Weasel! [Category: Mustelid]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Furão",
+                "description": "Este usuário é um Furão! AKA: Furãozinho, Lontra."
             }
         ]
     },
@@ -451,6 +656,11 @@
                 "lang": "en",
                 "name": "Stoat",
                 "description": "This user is a Stoat! [Category: Mustelid]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Arminho",
+                "description": "Este usuário é um Arminho! AKA: Furão."
             }
         ]
     },
@@ -461,6 +671,11 @@
                 "lang": "en",
                 "name": "Unicorn",
                 "description": "This user is an Unicorn!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Unicórnio",
+                "description": "Este usuário é um Unicórnio! AKA: Cavalo."
             }
         ]
     },
@@ -471,6 +686,11 @@
                 "lang": "en",
                 "name": "Crocodile",
                 "description": "This user is a Crocodile!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Crocodilo",
+                "description": "Este usuário é um Crocodilo! AKA: Lodilo."
             }
         ]
     },
@@ -481,6 +701,11 @@
                 "lang": "en",
                 "name": "Alligator",
                 "description": "This user is an Alligator!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Jacaré",
+                "description": "Este usuário é um Jacaré! AKA: Jaré."
             }
         ]
     },
@@ -491,6 +716,11 @@
                 "lang": "en",
                 "name": "Alpaca",
                 "description": "This user is an Alpaca!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Alpaca",
+                "description": "Este usuário é uma Alpaca! AKA: Llama."
             }
         ]
     },
@@ -501,6 +731,11 @@
                 "lang": "en",
                 "name": "Llama",
                 "description": "This user is a Llama!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Llama",
+                "description": "Este usuário é uma Llama! AKA: Alpaca, Lama."
             }
         ]
     },
@@ -511,6 +746,11 @@
                 "lang": "en",
                 "name": "Goat",
                 "description": "This user is a Goat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cabra",
+                "description": "Este usuário é uma Cabra! AKA: Cabrito, Bode."
             }
         ]
     },
@@ -521,6 +761,11 @@
                 "lang": "en",
                 "name": "Phoenix",
                 "description": "This user is a Phoenix!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Fênix",
+                "description": "Este usuário é uma Fẽnix!"
             }
         ]
     },
@@ -531,6 +776,11 @@
                 "lang": "en",
                 "name": "Eel",
                 "description": "This user is an Eel!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Enguia",
+                "description": "Este usuário é uma Enguia!"
             }
         ]
     },
@@ -541,6 +791,11 @@
                 "lang": "en",
                 "name": "Fish",
                 "description": "This user is a Fish!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Peixe",
+                "description": "Este usuário é um Peixe! AKA: Peixinho"
             }
         ]
     },
@@ -551,6 +806,11 @@
                 "lang": "en",
                 "name": "Plane Dragon",
                 "description": "This user is a Plane Dragon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Dragão Nave",
+                "description": "Este usuário é um Dragão Nave!"
             }
         ]
     },
@@ -561,6 +821,11 @@
                 "lang": "en",
                 "name": "Lizard",
                 "description": "This user is a Lizard!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lagarto",
+                "description": "Este usuário é um Lagarto! AKA: Lagartixa, Camaleão."
             }
         ]
     },
@@ -571,6 +836,11 @@
                 "lang": "en",
                 "name": "Manokit",
                 "description": "This user is a Manokit!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Manokit",
+                "description": "Este usuário é um Manokit!"
             }
         ]
     },
@@ -581,6 +851,11 @@
                 "lang": "en",
                 "name": "Gryphon",
                 "description": "This user is a Gryphon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Grifo",
+                "description": "Este usuário é um Grifo!"
             }
         ]
     },
@@ -591,6 +866,11 @@
                 "lang": "en",
                 "name": "Wolverine",
                 "description": "This user is a Wolverine!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Carcaju",
+                "description": "Este usuário é um Carcajo! AKA: Lobão, Wolverine."
             }
         ]
     },
@@ -601,6 +881,11 @@
                 "lang": "en",
                 "name": "Lynx",
                 "description": "This user is a Lynx!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lince",
+                "description": "Este usuário é um Lince! AKA: Gato, Lobo-cerval."
             }
         ]
     },
@@ -611,6 +896,11 @@
                 "lang": "en",
                 "name": "Werewolf",
                 "description": "This user is a Werewolf!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lobisomen",
+                "description": "Este usuário é um Lobisomen!"
             }
         ]
     },
@@ -621,6 +911,11 @@
                 "lang": "en",
                 "name": "Coywolf",
                 "description": "This user is a Coywolf!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Coiote",
+                "description": "Este usuário é um Coiote! AKA: Lobo."
             }
         ]
     },
@@ -631,6 +926,11 @@
                 "lang": "en",
                 "name": "Boar",
                 "description": "This user is a Boar!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Javali",
+                "description": "Este usuário é um Javali! AKA: Varão."
             }
         ]
     },
@@ -641,6 +941,11 @@
                 "lang": "en",
                 "name": "Kobold",
                 "description": "This user is a Kobold!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Kobold",
+                "description": "Este usuário é um Kobold!"
             }
         ]
     },
@@ -651,6 +956,11 @@
                 "lang": "en",
                 "name": "Cryptid",
                 "description": "This user is a Cryptid!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cryptid",
+                "description": "Este usuário é um Cryptid! AKA: Híbrido."
             }
         ]
     },
@@ -661,6 +971,11 @@
                 "lang": "en",
                 "name": "Mythical Creature",
                 "description": "This user is a Mythical Creature!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Criatura Mítica",
+                "description": "Este usuário é uma Criatura Mítica!"
             }
         ]
     },
@@ -671,6 +986,11 @@
                 "lang": "en",
                 "name": "Eldritch Creature",
                 "description": "This user is an Eldritch Creature!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Criatura Sobrenatural",
+                "description": "Este usuário é uma Criatura Sobrenatural! AKA: Eldricth, Mítico."
             }
         ]
     },
@@ -681,6 +1001,11 @@
                 "lang": "en",
                 "name": "Puma",
                 "description": "This user is a Puma!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Puma",
+                "description": "Este usuário é uma Puma! AKA: Onça-parda."
             }
         ]
     },
@@ -691,6 +1016,11 @@
                 "lang": "en",
                 "name": "Tanuki",
                 "description": "This user is a Tanuki!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Tanuki",
+                "description": "Este usuário é um Tanuki! AKA: Guaxinim."
             }
         ]
     },
@@ -701,6 +1031,11 @@
                 "lang": "en",
                 "name": "Bovine",
                 "description": "This user is a Bovine!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Bovino",
+                "description": "Este usuário é um Bovino!"
             }
         ]
     },
@@ -711,6 +1046,11 @@
                 "lang": "en",
                 "name": "Red Wolf",
                 "description": "This user is a Red Wolf!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lobo Cinzento",
+                "description": "Este usuário é um Lobo Cinzento! AKA: Lobo."
             }
         ]
     },
@@ -721,6 +1061,11 @@
                 "lang": "en",
                 "name": "Fennec Fox",
                 "description": "This user is a Fennec Fox!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Raposa Feneco",
+                "description": "Este usuário é uma Raposa Feneco! AKA: Raposa."
             }
         ]
     },
@@ -731,6 +1076,11 @@
                 "lang": "en",
                 "name": "Saber",
                 "description": "This user is a Saber!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Saber",
+                "description": "Este usuário é um Saber!"
             }
         ]
     },
@@ -741,6 +1091,11 @@
                 "lang": "en",
                 "name": "Saber-Toothed Cat",
                 "description": "This user is a Saber-Toothed Cat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Smilodon",
+                "description": "Este usuário é um Smilodon! AKA: Tigre-dente-de-sabre."
             }
         ]
     },
@@ -751,6 +1106,11 @@
                 "lang": "en",
                 "name": "Donkey",
                 "description": "This user is a Donkey! Hee-haw~!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Burro",
+                "description": "Este usuário é um Burro! Não literalmente."
             }
         ]
     },
@@ -761,6 +1121,11 @@
                 "lang": "en",
                 "name": "Leopard",
                 "description": "This user is a Leopard!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Leopardo",
+                "description": "Este usuário é um Leopardo! AKA: Pantera, Leão."
             }
         ]
     },
@@ -771,6 +1136,11 @@
                 "lang": "en",
                 "name": "Chakat",
                 "description": "This user is a Chakat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Chakat",
+                "description": "Este usuário é um Chakat! AKA: Pantera, Onça."
             }
         ]
     },
@@ -781,6 +1151,11 @@
                 "lang": "en",
                 "name": "Hedgehog",
                 "description": "This user is a Hedgehog!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Ouriço",
+                "description": "Este usuário é um Ouriço! AKA: Roedor, Gandú."
             }
         ]
     },
@@ -791,6 +1166,11 @@
                 "lang": "en",
                 "name": "Monster Dog",
                 "description": "This user is a Monster Dog!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Dog Monstro",
+                "description": "Este usuário é um Dog Monstro! AKA: Híbrido, Cachorro."
             }
         ]
     },
@@ -801,6 +1181,11 @@
                 "lang": "en",
                 "name": "Pooltoy",
                 "description": "This user is a Pooltoy! Squeak!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pooltoy",
+                "description": "Este usuário é um tipo de Pooltoy! AKA: Borracha, Piscina."
             }
         ]
     },
@@ -811,6 +1196,11 @@
                 "lang": "en",
                 "name": "Dolphin",
                 "description": "This user is a Dolphin!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Golfinho",
+                "description": "Este usuário é um Golfinho!"
             }
         ]
     },
@@ -821,6 +1211,11 @@
                 "lang": "en",
                 "name": "Dinosaur",
                 "description": "This user is a Dinosaur!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Dinossauro",
+                "description": "Este usuário é um DInossauro! Rawr!"
             }
         ]
     },
@@ -831,6 +1226,11 @@
                 "lang": "en",
                 "name": "Deathclaw",
                 "description": "This user is a Deathclaw!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Deathclaw",
+                "description": "Este usuário é um Deathclaw! AKA: Dragão"
             }
         ]
     },
@@ -841,6 +1241,11 @@
                 "lang": "en",
                 "name": "Lion",
                 "description": "This user is a Lion!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Leão",
+                "description": "Este usuário é um Leão! AKA: Gato."
             }
         ]
     },
@@ -851,6 +1256,11 @@
                 "lang": "en",
                 "name": "Reptile",
                 "description": "This user is a Reptile!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Réptil",
+                "description": "Este usuário é um Réptil!"
             }
         ]
     },
@@ -861,6 +1271,11 @@
                 "lang": "en",
                 "name": "404 Fursona Not Found",
                 "description": "This user is... not yet known! Maybe they're still trying to figure out."
+            },
+            {
+                "lang": "pt-BR",
+                "name": "404 Usuário não achado",
+                "description": "Este usuário é.. não descoberto ainda! Ainda tentando desvendar."
             }
         ]
     },
@@ -871,6 +1286,11 @@
                 "lang": "en",
                 "name": "Species Fluid",
                 "description": "This user's fursona species may change often!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Espécie Líquida",
+                "description": "Este usuário é ser que transforma muito!"
             }
         ]
     },
@@ -881,6 +1301,11 @@
                 "lang": "en",
                 "name": "Snail",
                 "description": "This user is a Snail!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lesma",
+                "description": "Este usuário é uma Lesma! AKA: Caracol."
             }
         ]
     },
@@ -891,6 +1316,11 @@
                 "lang": "en",
                 "name": "Insect",
                 "description": "This user is an Insect!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Inseto",
+                "description": "Este usuário é um Inseto! Bzzzz!"
             }
         ]
     },
@@ -901,6 +1331,11 @@
                 "lang": "en",
                 "name": "Avali",
                 "description": "This user is an Avali! https://en.wikifur.com/wiki/Avali"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Avali",
+                "description": "Este usuário é um Avali! https://en.wikifur.com/wiki/Avali"
             }
         ]
     },
@@ -911,6 +1346,11 @@
                 "lang": "en",
                 "name": "Alien",
                 "description": "This user is an Alien!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Alien",
+                "description": "Este usuário é um Alien!"
             }
         ]
     },
@@ -921,6 +1361,11 @@
                 "lang": "en",
                 "name": "Dingo",
                 "description": "This user is a Dingo!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Dingo",
+                "description": "Este usuário é um Dingo! AKA: Cachorro, Lobo."
             }
         ]
     },
@@ -931,6 +1376,11 @@
                 "lang": "en",
                 "name": "Coastal Wolf",
                 "description": "This user is a Coastal Wolf! https://en.wikipedia.org/wiki/Vancouver_Coastal_Sea_wolf"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lobo Costeiro",
+                "description": "Este usuário é um Lobo Costeiro! https://en.wikipedia.org/wiki/Vancouver_Coastal_Sea_wolf"
             }
         ]
     },
@@ -941,6 +1391,11 @@
                 "lang": "en",
                 "name": "Maned Wolf",
                 "description": "This user is a Maned Wolf!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lobo-Guará",
+                "description": "Este usuário é um Lobo-Guará! AKA: Lobo."
             }
         ]
     },
@@ -951,6 +1406,11 @@
                 "lang": "en",
                 "name": "Jackalope",
                 "description": "This user is a Jackalope!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lebrípole",
+                "description": "Este usuário é um Lebrípole! AKA: Coelho, Cervo, Jackalope."
             }
         ]
     },
@@ -961,6 +1421,11 @@
                 "lang": "en",
                 "name": "Shiba Inu",
                 "description": "This user is a Shiba Inu!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Shiba Inu",
+                "description": "Este usuário é um Shiba! Au au!"
             }
         ]
     },
@@ -971,6 +1436,11 @@
                 "lang": "en",
                 "name": "Shikoku Inu",
                 "description": "This user is a Shikoku Inu!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Shikoku Inu",
+                "description": "Este usuário é um Shikoku Inu! AKA: Cachorro."
             }
         ]
     },
@@ -981,6 +1451,11 @@
                 "lang": "en",
                 "name": "Vampire",
                 "description": "This user is a Vampire!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Vampiro",
+                "description": "Este usuário é um Vampiro!"
             }
         ]
     },
@@ -991,6 +1466,11 @@
                 "lang": "en",
                 "name": "Supernatural Creature",
                 "description": "This user is a Supernatural Creature!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Criatura Sobrenatural",
+                "description": "Este usuário é uma Criatura Sobrenatural!"
             }
         ]
     },
@@ -1001,6 +1481,11 @@
                 "lang": "en",
                 "name": "Yokai",
                 "description": "This user is a Yokai!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Youkai",
+                "description": "Este usuário é um Yokai! AKA: Criatura Mágica, Kitsune."
             }
         ]
     },
@@ -1011,6 +1496,11 @@
                 "lang": "en",
                 "name": "Hellhound",
                 "description": "This user is a Hellhound!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Hellhound",
+                "description": "Este usuário é um Cérbero! AKA: Cérbero, Cachorro"
             }
         ]
     },
@@ -1021,6 +1511,11 @@
                 "lang": "en",
                 "name": "Demon",
                 "description": "This user is a Demon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Demônio",
+                "description": "Este usuário é um Demônio!"
             }
         ]
     },
@@ -1031,6 +1526,11 @@
                 "lang": "en",
                 "name": "Salamander",
                 "description": "This user is a Salamander!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Salamandra",
+                "description": "Este usuário é uma Salamandra!"
             }
         ]
     },
