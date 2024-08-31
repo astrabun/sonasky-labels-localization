@@ -4413,10 +4413,10 @@
                 "description": "This user is a Drone! [Modifier]"
             },
             {
-            	"lang": "pt-BR",
+                "lang": "pt-BR",
                 "name": "Drone",
                 "description": "Este usuário é um Drone! [Modifier]"
-        	}
+            }
         ]
     },
     {
@@ -5581,6 +5581,26 @@
                 "lang": "pt-BR",
                 "name": "Darkrai",
                 "description": "Este usuário é um Darkrai! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "zigzagoon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Zigzagoon",
+                "description": "This user is a Zigzagoon! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "octopus",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Octopus",
+                "description": "This user is an Octopus! [Category: Pokemon]"
             }
         ]
     }
