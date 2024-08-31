@@ -5073,5 +5073,125 @@
                 "description": "This user is an Ender Dragon!"
             }
         ]
+    },
+    {
+        "id": "stegosaurus",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Stegosaurus",
+                "description": "This user is a Stegosaurus! [Category: Dinosaur]"
+            }
+        ]
+    },
+    {
+        "id": "therian",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Therian",
+                "description": "This user is a Therian! [Category: Meta] While this label is not a species, it denotes the user is a Therian and the user may use another species label to denote a theriotype."
+            }
+        ]
+    },
+    {
+        "id": "therian-and-furry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Therian Furry",
+                "description": "This user is a Therian AND a furry! [Category: Meta] While this label is not a species, it denotes the user is a Therian and the user may use another species label to denote a theriotype. Also, not every Therian is necessarily a furry, so this label lets the user be specific that they are both!"
+            }
+        ]
+    },
+    {
+        "id": "spotted-hyena",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Spotted Hyena",
+                "description": "This user is a Spotted Hyena!"
+            }
+        ]
+    },
+    {
+        "id": "swaria",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Swaria",
+                "description": "This user is a Swaria! #VRChat"
+            }
+        ]
+    },
+    {
+        "id": "rikkor",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Rikkor",
+                "description": "This user is a Rikkor! #VRChat"
+            }
+        ]
+    },
+    {
+        "id": "potoo",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Potoo",
+                "description": "This user is a Potoo! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "ampharos",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ampharos",
+                "description": "This user is an Ampharos! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "corvid",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Corvid",
+                "description": "This user is a Corvid! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "magpie",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Magpie",
+                "description": "This user is a Magpie! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "scrub-jay",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Scrub Jay",
+                "description": "This user is a Scrub Jay! [Category: Avian/Bird]"
+            }
+        ]
+    },
+    {
+        "id": "darkrai",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Darkrai",
+                "description": "This user is a Darkrai! [Category: Pokemon]"
+            }
+        ]
     }
 ]
