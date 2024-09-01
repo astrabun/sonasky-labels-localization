@@ -4774,7 +4774,7 @@
             },
             {
                 "lang": "pt-BR",
-                "name": "Súcubo",
+                "name": "Íncubo",
                 "description": "Este usuário é um Íncubo! [Category: Folclore]"
             }
         ]
@@ -5726,6 +5726,26 @@
                 "lang": "en",
                 "name": "Dracthyr",
                 "description": "This user is a Dracthyr! [Category: World of Warcraft]"
+            }
+        ]
+    },
+    {
+        "id": "aggron",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Aggron",
+                "description": "This user is an Aggron! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "halsanju-or-fecto",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Halsanju/Fecto",
+                "description": "This user is a Halsanju! AKA: Fecto. From Kirby and the Forgotten Land (video game)."
             }
         ]
     }
