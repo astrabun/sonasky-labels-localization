@@ -3495,6 +3495,16 @@
         ]
     },
     {
+        "id": "eevee",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Eevee",
+                "description": "This user is an Eevee! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
         "id": "sylveon",
         "locales": [
             {
@@ -3881,6 +3891,16 @@
                 "lang": "en",
                 "name": "Zafara",
                 "description": "This user is a Zafara! [Category: Neopet]"
+            }
+        ]
+    },
+    {
+        "id": "liger",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Liger",
+                "description": "This user is a Liger!"
             }
         ]
     },
@@ -4745,6 +4765,21 @@
         ]
     },
     {
+        "id": "incubus",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Incubus",
+                "description": "This user is an Incubus! [Category: Folklore]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Súcubo",
+                "description": "Este usuário é um Íncubo! [Category: Folclore]"
+            }
+        ]
+    },
+    {
         "id": "dramster",
         "locales": [
             {
@@ -5601,6 +5636,96 @@
                 "lang": "en",
                 "name": "Octopus",
                 "description": "This user is an Octopus! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "kirin-pony",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kirin (Pony)",
+                "description": "This user is a Kirin (from My Little Pony)!"
+            }
+        ]
+    },
+    {
+        "id": "lycanroc",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Lycanroc",
+                "description": "This user is a Lycanroc! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "ivysaur",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ivysaur",
+                "description": "This user is an Ivysaur! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "zeraora",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Zeraora",
+                "description": "This user is a Zeraora! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "skitty",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Skitty",
+                "description": "This user is a Skitty! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "liepard",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Liepard",
+                "description": "This user is a Liepard! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "mutt",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Mutt",
+                "description": "This user is a Mutt! AKA: mongrel, mixed-breed dog"
+            }
+        ]
+    },
+    {
+        "id": "typhlosion",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Typhlosion",
+                "description": "This user is a Typhlosion! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "dracthyr",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Dracthyr",
+                "description": "This user is a Dracthyr! [Category: World of Warcraft]"
             }
         ]
     }
