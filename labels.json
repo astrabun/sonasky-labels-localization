@@ -1545,7 +1545,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Neopet",
-                "description": "Este usuário é um mascote Neopet! [Categoria: Neopet]"
+                "description": "Este usuário é um mascote Neopet! [Category: Neopet]"
             }
         ]
     },
@@ -1575,7 +1575,7 @@
              {
                 "lang": "pt-BR",
                 "name": "Velociraptor",
-                "description": "Este usuário é um Velociraptor! [Categoria: Dinossauro]"
+                "description": "Este usuário é um Velociraptor! [Category: Dinossauro]"
             }
         ]
     },
@@ -1620,7 +1620,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Águia",
-                "description": "Este usuário é uma Águia! [Categoria: Ave/Pássaro]"
+                "description": "Este usuário é uma Águia! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1635,7 +1635,7 @@
              {
                 "lang": "pt-BR",
                 "name": "Falcão",
-                "description": "Este usuário é um Falcão! [Categoria: Ave/Pássaro]"
+                "description": "Este usuário é um Falcão! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1650,7 +1650,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Galinha",
-                "description": "Este usuário é uma Galinha! có-có-có! [Categoria: Ave/Pássaro]"
+                "description": "Este usuário é uma Galinha! có-có-có! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1665,7 +1665,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Pato",
-                "description": "Este usuário é uma Pato! quac-quac! [Categoria: Ave/Pássaro]"
+                "description": "Este usuário é uma Pato! quac-quac! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1680,7 +1680,7 @@
              {
                 "lang": "pt-BR",
                 "name": "Papagaio",
-                "description": "Este usuário é um Papagaio! [Categoria: Ave/Pássaro]"
+                "description": "Este usuário é um Papagaio! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1695,7 +1695,7 @@
              {
                 "lang": "pt-BR",
                 "name": "Corvo",
-                "description": "Este usuário é um Corvo!"
+                "description": "Este usuário é um Corvo! [Category: Ave/Pássaro]" 
             }
         ]
     },
@@ -1710,7 +1710,7 @@
            {
                 "lang": "pt-BR",
                 "name": "Corvo",
-                "description": "Este usuário é um Corvo!"
+                "description": "Este usuário é um Corvo! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1725,7 +1725,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Gaio-azul",
-                "description": "Este usuário é um Gaio-azul!"
+                "description": "Este usuário é um Gaio-azul! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1740,7 +1740,7 @@
              {
                 "lang": "pt-BR",
                 "name": "Ganso",
-                "description": "Este usuário é um Ganso! quá quá!"
+                "description": "Este usuário é um Ganso! quá quá! [Category: Ave/Pássaro]"  
             }
         ]
     },
@@ -1755,7 +1755,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Cisne",
-                "description": "Este usuário é um Cisne!"
+                "description": "Este usuário é um Cisne! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1770,7 +1770,7 @@
               {
                 "lang": "pt-BR",
                 "name": "Pinguim",
-                "description": "Este usuário é um Pinguim!"
+                "description": "Este usuário é um Pinguim! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1785,7 +1785,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Pombo",
-                "description": "Este usuário é um Pombo! prú prú"
+                "description": "Este usuário é um Pombo! prú prú [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1800,7 +1800,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Pombo",
-                "description": "Este usuário é um Pombo! prú prú"
+                "description": "Este usuário é um Pombo! prú prú [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1815,7 +1815,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Cardeal ",
-                "description": "Este usuário é um Cardeal!"
+                "description": "Este usuário é um Cardeal! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1830,7 +1830,7 @@
              {
                 "lang": "pt-BR",
                 "name": "Pisco",
-                "description": "Este usuário é um Pisco-de-peito-ruivo!"
+                "description": "Este usuário é um Pisco-de-peito-ruivo! [Category: Ave/Pássaro]"
             }
         ]
     },
