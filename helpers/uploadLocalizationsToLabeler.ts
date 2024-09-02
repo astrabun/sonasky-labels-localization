@@ -2,8 +2,6 @@ import { BskyAgent } from "@atproto/api";
 
 import * as fs from "fs";
 
-const GENERATE_JSON_FILE_OF_SPECIES =
-  process.env.GENERATE_JSON_FILE_OF_SPECIES === "true";
 const GENERATE_JSON_FILE_OF_SPECIES__DIR = ".";
 const GENERATE_JSON_FILE_OF_SPECIES__NAME = "labels.json";
 
@@ -42,27 +40,6 @@ async function main() {
         collection: "app.bsky.labeler.service",
         rkey: "self",
       });
-    if (GENERATE_JSON_FILE_OF_SPECIES) {
-      const current_simple = (
-        response as any
-      ).data.value.policies.labelValueDefinitions.map((i: any) => {
-        return { id: i.identifier, locales: i.locales };
-      });
-      console.log("Generated simple format");
-      fs.writeFile(
-        `${GENERATE_JSON_FILE_OF_SPECIES__DIR}/${GENERATE_JSON_FILE_OF_SPECIES__NAME}`,
-        JSON.stringify(current_simple, undefined, 4),
-        function (err) {
-          if (err) {
-            console.log(err);
-          } else {
-            console.log(
-              `Wrote to ${GENERATE_JSON_FILE_OF_SPECIES__DIR}/${GENERATE_JSON_FILE_OF_SPECIES__NAME}`
-            );
-          }
-        }
-      );
-    }
     return (response as any).data.value.policies;
   };
 

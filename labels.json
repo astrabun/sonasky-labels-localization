@@ -5870,7 +5870,7 @@
             {
                 "lang": "en",
                 "name": "Raichu",
-                "description": "This user is a Raichu!"
+                "description": "This user is a Raichu! [Category: Pokemon]"
             }
         ]
     },
@@ -5880,7 +5880,7 @@
             {
                 "lang": "en",
                 "name": "Pokefusion",
-                "description": "This user is a Pokefusion!"
+                "description": "This user is a Pokefusion! [Category: Pokemon] Similar to the Hybrid label, but specific to Pokemon; use with other Pokemon species labels!"
             }
         ]
     },
@@ -5890,7 +5890,7 @@
             {
                 "lang": "en",
                 "name": "Croconaw",
-                "description": "This user is a Croconaw!"
+                "description": "This user is a Croconaw! [Category: Pokemon]"
             }
         ]
     },
@@ -5900,7 +5900,7 @@
             {
                 "lang": "en",
                 "name": "Feraligatr",
-                "description": "This user is a Feraligatr!"
+                "description": "This user is a Feraligatr! [Category: Pokemon]"
             }
         ]
     },
@@ -5910,7 +5910,7 @@
             {
                 "lang": "en",
                 "name": "Drizzile",
-                "description": "This user is a Drizzile!"
+                "description": "This user is a Drizzile! [Category: Pokemon]"
             }
         ]
     },
@@ -5920,7 +5920,97 @@
             {
                 "lang": "en",
                 "name": "Serperior",
-                "description": "This user is a Serperior!"
+                "description": "This user is a Serperior! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "pangoro",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pangoro",
+                "description": "This user is a Pangoro! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "miqote",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Miqo'te",
+                "description": "This user is a Miqo'te! [Category: Final Fantasy]"
+            }
+        ]
+    },
+    {
+        "id": "kemonomimi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Kemonomimi",
+                "description": "This user is a Kemonomimi! Kemonomimi are characters that have animal ears, tails or other animal characteristics on an otherwise human body."
+            }
+        ]
+    },
+    {
+        "id": "nekomimi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Nekomimi",
+                "description": "This user is a Nekomimi! Nekomimi are a type of Kemonomimi (characters that have animal ears, tails or other animal characteristics on an otherwise human body) where the character has cat ears, tails, or other feline characteristics on an otherwise human body."
+            }
+        ]
+    },
+    {
+        "id": "inumimi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Inumimi",
+                "description": "This user is a Inumimi! Inumimi are a type of Kemonomimi (characters that have animal ears, tails or other animal characteristics on an otherwise human body) where the character has dog ears, tails, or other canine characteristics on an otherwise human body."
+            }
+        ]
+    },
+    {
+        "id": "sandslash",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sandslash",
+                "description": "This user is a Sandslash!"
+            }
+        ]
+    },
+    {
+        "id": "braixen",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Braixen",
+                "description": "This user is a Braixen!"
+            }
+        ]
+    },
+    {
+        "id": "zangoose",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Zangoose",
+                "description": "This user is a Zangoose!"
+            }
+        ]
+    },
+    {
+        "id": "boxer",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Boxer",
+                "description": "This user is a Boxer!"
             }
         ]
     }
