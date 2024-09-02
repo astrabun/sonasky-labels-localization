@@ -1572,7 +1572,7 @@
                 "name": "Raptor",
                 "description": "This user is a Raptor! [Category: Dinosaur]"
             },
-             {
+            {
                 "lang": "pt-BR",
                 "name": "Velociraptor",
                 "description": "Este usuário é um Velociraptor! [Category: Dinossauro]"
@@ -1602,7 +1602,7 @@
                 "name": "Axolotl",
                 "description": "This user is an Axolotl!"
             },
-             {
+            {
                 "lang": "pt-BR",
                 "name": "Axolote",
                 "description": "Este usuário é um Axolote"
@@ -1632,7 +1632,7 @@
                 "name": "Falcon",
                 "description": "This user is a Falcon! [Category: Avian/Bird]"
             },
-             {
+            {
                 "lang": "pt-BR",
                 "name": "Falcão",
                 "description": "Este usuário é um Falcão! [Category: Ave/Pássaro]"
@@ -1677,7 +1677,7 @@
                 "name": "Parrot",
                 "description": "This user is a Parrot! [Category: Avian/Bird]"
             },
-             {
+            {
                 "lang": "pt-BR",
                 "name": "Papagaio",
                 "description": "Este usuário é um Papagaio! [Category: Ave/Pássaro]"
@@ -1692,10 +1692,10 @@
                 "name": "Crow",
                 "description": "This user is a Crow! [Category: Avian/Bird]"
             },
-             {
+            {
                 "lang": "pt-BR",
                 "name": "Corvo",
-                "description": "Este usuário é um Corvo! [Category: Ave/Pássaro]" 
+                "description": "Este usuário é um Corvo! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1707,7 +1707,7 @@
                 "name": "Raven",
                 "description": "This user is a Raven! [Category: Avian/Bird]"
             },
-           {
+            {
                 "lang": "pt-BR",
                 "name": "Corvo",
                 "description": "Este usuário é um Corvo! [Category: Ave/Pássaro]"
@@ -1737,10 +1737,10 @@
                 "name": "Goose",
                 "description": "This user is a Goose! [Category: Avian/Bird]"
             },
-             {
+            {
                 "lang": "pt-BR",
                 "name": "Ganso",
-                "description": "Este usuário é um Ganso! quá quá! [Category: Ave/Pássaro]"  
+                "description": "Este usuário é um Ganso! quá quá! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1767,7 +1767,7 @@
                 "name": "Penguin",
                 "description": "This user is a Penguin! [Category: Avian/Bird]"
             },
-              {
+            {
                 "lang": "pt-BR",
                 "name": "Pinguim",
                 "description": "Este usuário é um Pinguim! [Category: Ave/Pássaro]"
@@ -1827,7 +1827,7 @@
                 "name": "Robin",
                 "description": "This user is a Robin! [Category: Avian/Bird]"
             },
-             {
+            {
                 "lang": "pt-BR",
                 "name": "Pisco",
                 "description": "Este usuário é um Pisco-de-peito-ruivo! [Category: Ave/Pássaro]"
@@ -1842,7 +1842,7 @@
                 "name": "Gecko",
                 "description": "This user is a Gecko!"
             },
-             {
+            {
                 "lang": "pt-BR",
                 "name": "Gecko ",
                 "description": "Este usuário é um Gecko!"
@@ -5851,6 +5851,76 @@
                 "lang": "en",
                 "name": "Halsanju/Fecto",
                 "description": "This user is a Halsanju! AKA: Fecto. From Kirby and the Forgotten Land (video game)."
+            }
+        ]
+    },
+    {
+        "id": "swedish-vallhund",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Swedish Vallhund",
+                "description": "This user is a Swedish Vallhund!"
+            }
+        ]
+    },
+    {
+        "id": "raichu",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Raichu",
+                "description": "This user is a Raichu!"
+            }
+        ]
+    },
+    {
+        "id": "pokefusion",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pokefusion",
+                "description": "This user is a Pokefusion!"
+            }
+        ]
+    },
+    {
+        "id": "croconaw",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Croconaw",
+                "description": "This user is a Croconaw!"
+            }
+        ]
+    },
+    {
+        "id": "feraligatr",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Feraligatr",
+                "description": "This user is a Feraligatr!"
+            }
+        ]
+    },
+    {
+        "id": "drizzile",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Drizzile",
+                "description": "This user is a Drizzile!"
+            }
+        ]
+    },
+    {
+        "id": "serperior",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Serperior",
+                "description": "This user is a Serperior!"
             }
         ]
     }
