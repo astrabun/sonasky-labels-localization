@@ -40,7 +40,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Panda Vermelho",
-                "description": "Este usuário é um Panda vermelho!"
+                "description": "Este usuário é um Panda vermelho! AKA: wawawa"
             }
         ]
     },
@@ -1541,6 +1541,11 @@
                 "lang": "en",
                 "name": "Neopet",
                 "description": "This user is a Neopet! [Category: Neopet]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Neopet",
+                "description": "Este usuário é um mascote Neopet! [Category: Neopet]"
             }
         ]
     },
@@ -1551,6 +1556,11 @@
                 "lang": "en",
                 "name": "Crux",
                 "description": "This user is a Crux! https://en.wikifur.com/wiki/Crux_(species)"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Crux",
+                "description": "Este usuário é um Crux!"
             }
         ]
     },
@@ -1561,6 +1571,11 @@
                 "lang": "en",
                 "name": "Raptor",
                 "description": "This user is a Raptor! [Category: Dinosaur]"
+            },
+             {
+                "lang": "pt-BR",
+                "name": "Velociraptor",
+                "description": "Este usuário é um Velociraptor! [Category: Dinossauro]"
             }
         ]
     },
@@ -1571,6 +1586,11 @@
                 "lang": "en",
                 "name": "Shapeshifter",
                 "description": "This user is a Shapeshifter!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Metamorfo",
+                "description": "Este usuário é um Metamorfo!"
             }
         ]
     },
@@ -1581,6 +1601,11 @@
                 "lang": "en",
                 "name": "Axolotl",
                 "description": "This user is an Axolotl!"
+            },
+             {
+                "lang": "pt-BR",
+                "name": "Axolote",
+                "description": "Este usuário é um Axolote"
             }
         ]
     },
@@ -1591,6 +1616,11 @@
                 "lang": "en",
                 "name": "Eagle",
                 "description": "This user is an Eagle! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Águia",
+                "description": "Este usuário é uma Águia! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1601,6 +1631,11 @@
                 "lang": "en",
                 "name": "Falcon",
                 "description": "This user is a Falcon! [Category: Avian/Bird]"
+            },
+             {
+                "lang": "pt-BR",
+                "name": "Falcão",
+                "description": "Este usuário é um Falcão! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1611,6 +1646,11 @@
                 "lang": "en",
                 "name": "Chicken",
                 "description": "This user is a Chicken! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Galinha",
+                "description": "Este usuário é uma Galinha! có-có-có! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1621,6 +1661,11 @@
                 "lang": "en",
                 "name": "Duck",
                 "description": "This user is a Duck! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pato",
+                "description": "Este usuário é uma Pato! quac-quac! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1631,6 +1676,11 @@
                 "lang": "en",
                 "name": "Parrot",
                 "description": "This user is a Parrot! [Category: Avian/Bird]"
+            },
+             {
+                "lang": "pt-BR",
+                "name": "Papagaio",
+                "description": "Este usuário é um Papagaio! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1641,6 +1691,11 @@
                 "lang": "en",
                 "name": "Crow",
                 "description": "This user is a Crow! [Category: Avian/Bird]"
+            },
+             {
+                "lang": "pt-BR",
+                "name": "Corvo",
+                "description": "Este usuário é um Corvo! [Category: Ave/Pássaro]" 
             }
         ]
     },
@@ -1651,6 +1706,11 @@
                 "lang": "en",
                 "name": "Raven",
                 "description": "This user is a Raven! [Category: Avian/Bird]"
+            },
+           {
+                "lang": "pt-BR",
+                "name": "Corvo",
+                "description": "Este usuário é um Corvo! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1661,6 +1721,11 @@
                 "lang": "en",
                 "name": "Blue Jay",
                 "description": "This user is a Blue Jay! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Gaio-azul",
+                "description": "Este usuário é um Gaio-azul! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1671,6 +1736,11 @@
                 "lang": "en",
                 "name": "Goose",
                 "description": "This user is a Goose! [Category: Avian/Bird]"
+            },
+             {
+                "lang": "pt-BR",
+                "name": "Ganso",
+                "description": "Este usuário é um Ganso! quá quá! [Category: Ave/Pássaro]"  
             }
         ]
     },
@@ -1681,6 +1751,11 @@
                 "lang": "en",
                 "name": "Swan",
                 "description": "This user is a Swan! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cisne",
+                "description": "Este usuário é um Cisne! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1691,6 +1766,11 @@
                 "lang": "en",
                 "name": "Penguin",
                 "description": "This user is a Penguin! [Category: Avian/Bird]"
+            },
+              {
+                "lang": "pt-BR",
+                "name": "Pinguim",
+                "description": "Este usuário é um Pinguim! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1701,6 +1781,11 @@
                 "lang": "en",
                 "name": "Pigeon",
                 "description": "This user is a Pigeon! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pombo",
+                "description": "Este usuário é um Pombo! prú prú [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1711,6 +1796,11 @@
                 "lang": "en",
                 "name": "Dove",
                 "description": "This user is a Dove! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pombo",
+                "description": "Este usuário é um Pombo! prú prú [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1721,6 +1811,11 @@
                 "lang": "en",
                 "name": "Cardinal",
                 "description": "This user is a Cardinal! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cardeal ",
+                "description": "Este usuário é um Cardeal! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1731,6 +1826,11 @@
                 "lang": "en",
                 "name": "Robin",
                 "description": "This user is a Robin! [Category: Avian/Bird]"
+            },
+             {
+                "lang": "pt-BR",
+                "name": "Pisco",
+                "description": "Este usuário é um Pisco-de-peito-ruivo! [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -1741,6 +1841,11 @@
                 "lang": "en",
                 "name": "Gecko",
                 "description": "This user is a Gecko!"
+            },
+             {
+                "lang": "pt-BR",
+                "name": "Gecko ",
+                "description": "Este usuário é um Gecko!"
             }
         ]
     },
