@@ -5980,7 +5980,7 @@
             {
                 "lang": "en",
                 "name": "Sandslash",
-                "description": "This user is a Sandslash!"
+                "description": "This user is a Sandslash! [Category: Pokemon]"
             }
         ]
     },
@@ -5990,7 +5990,7 @@
             {
                 "lang": "en",
                 "name": "Braixen",
-                "description": "This user is a Braixen!"
+                "description": "This user is a Braixen! [Category: Pokemon]"
             }
         ]
     },
@@ -6000,7 +6000,7 @@
             {
                 "lang": "en",
                 "name": "Zangoose",
-                "description": "This user is a Zangoose!"
+                "description": "This user is a Zangoose! [Category: Pokemon]"
             }
         ]
     },
@@ -6011,6 +6011,46 @@
                 "lang": "en",
                 "name": "Boxer",
                 "description": "This user is a Boxer!"
+            }
+        ]
+    },
+    {
+        "id": "manta-ray",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Manta Ray",
+                "description": "This user is a Manta Ray!"
+            }
+        ]
+    },
+    {
+        "id": "goblin",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Goblin",
+                "description": "This user is a Goblin! [Category: D&D]"
+            }
+        ]
+    },
+    {
+        "id": "snorlax",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Snorlax",
+                "description": "This user is a Snorlax! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "objecthead",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Objecthead",
+                "description": "This user is an Objecthead! \"Object Head\" refers to humanoids or creatures with objects for heads; a common example is a TV Head."
             }
         ]
     }
