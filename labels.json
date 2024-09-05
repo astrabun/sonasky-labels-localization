@@ -6718,5 +6718,15 @@
                 "description": "This user is a Finnish Spitz!"
             }
         ]
+    },
+    {
+        "id": "behemoth",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Behemoth",
+                "description": "This user is a Behemoth! [Category: Final Fantasy]"
+            }
+        ]
     }
 ]
