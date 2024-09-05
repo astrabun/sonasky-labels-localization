@@ -1856,6 +1856,11 @@
                 "lang": "en",
                 "name": "Quox",
                 "description": "This user is a Quox! https://breezewiki.com/towerofdruaga/wiki/Quox"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Quox ",
+                "description": "Este usuário é um Quox! https://breezewiki.com/towerofdruaga/wiki/Quox"
             }
         ]
     },
@@ -1866,6 +1871,11 @@
                 "lang": "en",
                 "name": "Chimera",
                 "description": "This user is a Chimera!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Quimera ",
+                "description": "Este usuário é uma Quimera!"
             }
         ]
     },
@@ -1876,6 +1886,11 @@
                 "lang": "en",
                 "name": "Kitsune",
                 "description": "This user is a Kitsune!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Kitsune ",
+                "description": "Este usuário é um Kitsune!"
             }
         ]
     },
@@ -1886,7 +1901,12 @@
                 "lang": "en",
                 "name": "Sheep",
                 "description": "This user is a Sheep!"
-            }
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Ovelha ",
+                "description": "Este usuário é uma Ovelha!"
+            }            
         ]
     },
     {
@@ -1896,6 +1916,11 @@
                 "lang": "en",
                 "name": "Ram",
                 "description": "This user is a Ram!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Carneiro",
+                "description": "Este usuário é um Carneiro!! AKA: Ram"
             }
         ]
     },
@@ -1906,6 +1931,11 @@
                 "lang": "en",
                 "name": "Owl",
                 "description": "This user is an Owl! Hoot!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Coruja",
+                "description": "Este usuário é uma Coruja!! AKA: Owl"
             }
         ]
     },
@@ -1916,6 +1946,11 @@
                 "lang": "en",
                 "name": "Robot",
                 "description": "This user is a Robot!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Robô",
+                "description": "Este usuário é um Robô!! AKA: Robot"
             }
         ]
     },
@@ -1926,6 +1961,11 @@
                 "lang": "en",
                 "name": "Komodo Dragon",
                 "description": "This user is a Komodo Dragon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Dragão de Komodo",
+                "description": "Este usuário é um Dragão de Komodo! AKA: Komodo Dragon"
             }
         ]
     },
@@ -1936,6 +1976,11 @@
                 "lang": "en",
                 "name": "Pig",
                 "description": "This user is a Pig!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Porco",
+                "description": "Este usuário é um Porco!! AKA: Pig"
             }
         ]
     },
