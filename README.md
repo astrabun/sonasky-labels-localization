@@ -2,9 +2,9 @@
 
 This repo is for collaborative localization of species labels in SonaSky.
 
-## TODO
+## Automation
 
-Working on automatically pushing these translations back up to the labeler; for now, adding translations in this repo and then creating a PR is a great first step! When I go to review, I'll manually add the new translations until I finish the script to do it for me (still writing and testing the script).
+This repo automatically syncs labels from the repo to the SonaSky labeler on new commits to the `main` branch. 
 
 ## Localization
 
