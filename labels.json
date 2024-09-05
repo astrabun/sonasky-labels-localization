@@ -1965,7 +1965,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Pavão",
-                "description": "Este usuário é um Pavão! AKA: Peafowl"
+                "description": "Este usuário é um Pavão! [Category: Ave/Pássaro] AKA: Peafowl"
             }
         ]
     },
@@ -2025,7 +2025,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Mightyena",
-                "description": "Este usuário é um Mightyena! [Categoria: Pokemon]  AKA: Mightyena"
+                "description": "Este usuário é um Mightyena! [Category: Pokemon]  AKA: Mightyena"
             }
         ]
     },
@@ -2070,7 +2070,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Arara",
-                "description": "Este usuário é uma Arara!  AKA: Macaw"
+                "description": "Este usuário é uma Arara! [Category: Ave/Pássaro]  AKA: Macaw"
             }
         ]
     },
@@ -2325,7 +2325,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Texugo",
-                "description": "Este usuário é um Texugo!  AKA: Badger"
+                "description": "Este usuário é um Texugo! [Category: Mustelídeo]  AKA: Badger"
             }
         ]
     },
