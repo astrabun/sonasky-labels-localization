@@ -7,6 +7,10 @@ on:
 jobs:
   build:
     runs-on: self-hosted
+    env:
+      OZONE_SERVICE_USER_DID: ${{ secrets.OZONE_SERVICE_USER_DID }}
+      BSKY_USER: ${{ secrets.BSKY_USER }}
+      BSKY_PASS: ${{ secrets.BSKY_PASS }}
     steps:
     - uses: actions/checkout@v4
     - name: Use Node.js 22.x
