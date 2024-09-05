@@ -2500,7 +2500,12 @@
             {
                 "lang": "en",
                 "name": "Sparkledog",
-                "description": "This user is a Sparkledog!"
+                "description": "This user is a Sparkledog! https://en.wikifur.com/wiki/Sparkledog"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Alce",
+                "description": "Este usuário é um Sparkledog!  https://en.wikifur.com/wiki/Sparkledog"
             }
         ]
     },
@@ -2511,6 +2516,11 @@
                 "lang": "en",
                 "name": "Sparklefur",
                 "description": "This user is a Sparklefur!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Sparklefur",
+                "description": "Este usuário é um Sparklefur!"
             }
         ]
     },
@@ -2521,6 +2531,11 @@
                 "lang": "en",
                 "name": "Lemur",
                 "description": "This user is a Lemur!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lêmure",
+                "description": "Este usuário é um Lêmure!  AKA: Lemur"
             }
         ]
     },
@@ -2531,6 +2546,11 @@
                 "lang": "en",
                 "name": "Toy",
                 "description": "This user is a Toy!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Brinquedo",
+                "description": "Este usuário é um Brinquedo!  AKA: Toy"
             }
         ]
     },
@@ -2541,6 +2561,11 @@
                 "lang": "en",
                 "name": "Meerkat",
                 "description": "This user is a Meerkat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Suricate",
+                "description": "Este usuário é um Suricate!  AKA: Meerkat"
             }
         ]
     },
@@ -2551,6 +2576,11 @@
                 "lang": "en",
                 "name": "Kudu",
                 "description": "This user is a Kudu!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cudo / Antílope",
+                "description": "Este usuário é um Cudo!  AKA: Kudu"
             }
         ]
     },
@@ -2561,6 +2591,11 @@
                 "lang": "en",
                 "name": "Gorgonopsid",
                 "description": "This user is a Gorgonopsid!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Gorgonopsia",
+                "description": "Este usuário é uma Gorgonopsia!  AKA: Gorgonopsid"
             }
         ]
     },
@@ -2571,6 +2606,11 @@
                 "lang": "en",
                 "name": "Plushie",
                 "description": "This user is a Plushie!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pelúcia",
+                "description": "Este usuário é uma Pelúcia!  AKA: Plushie"
             }
         ]
     },
@@ -2581,6 +2621,11 @@
                 "lang": "en",
                 "name": "Weavile",
                 "description": "This user is a Weavile! [Category: Pokemon]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Weavile",
+                "description": "Este usuário é um Weavile!  [Category: Pokemon]"
             }
         ]
     },
@@ -2591,6 +2636,11 @@
                 "lang": "en",
                 "name": "Blue Marlin",
                 "description": "This user is a Blue Marlin!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Marlim-Azul",
+                "description": "Este usuário é um Marlim-Azul!  AKA: Blue Marlin"
             }
         ]
     },
@@ -2601,6 +2651,11 @@
                 "lang": "en",
                 "name": "Elephant",
                 "description": "This user is an Elephant!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Elefante",
+                "description": "Este usuário é um Elefante!  AKA: Elephant"
             }
         ]
     },
@@ -2611,6 +2666,11 @@
                 "lang": "en",
                 "name": "Mammoth",
                 "description": "This user is a Mammoth!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Mamute",
+                "description": "Este usuário é um Mamute!  AKA: Mammoth"
             }
         ]
     },
@@ -2621,6 +2681,11 @@
                 "lang": "en",
                 "name": "Caracal",
                 "description": "This user is a Caracal!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Caracal",
+                "description": "Este usuário é um Caracal!"
             }
         ]
     },
@@ -2631,6 +2696,11 @@
                 "lang": "en",
                 "name": "Bobcat",
                 "description": "This user is a Bobcat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lince",
+                "description": "Este usuário é um Lince!  AKA: Bobcat"
             }
         ]
     },
@@ -2641,6 +2711,11 @@
                 "lang": "en",
                 "name": "Kaiju",
                 "description": "This user is a Kaiju!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Kaiju",
+                "description": "Este usuário é um Kaiju!"
             }
         ]
     },
@@ -2651,6 +2726,11 @@
                 "lang": "en",
                 "name": "Monster",
                 "description": "This user is a Monster!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Monstro",
+                "description": "Este usuário é um Monstro!  AKA: Monster"
             }
         ]
     },
@@ -2661,6 +2741,11 @@
                 "lang": "en",
                 "name": "Cow",
                 "description": "This user is a Cow!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Vaca",
+                "description": "Este usuário é uma Vaca/Vaquinha!  AKA: Cow"
             }
         ]
     },
@@ -2671,6 +2756,11 @@
                 "lang": "en",
                 "name": "Muscovy Duck",
                 "description": "This user is a Muscovy Duck!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pato-do-Mato",
+                "description": "Este usuário é um Pato-do-Mato!  AKA: Muscovy Duck"
             }
         ]
     },
@@ -2681,6 +2771,11 @@
                 "lang": "en",
                 "name": "Dachshund",
                 "description": "This user is a Dachshund!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Salsichinha",
+                "description": "Este usuário é um Salsichinha!  AKA: Dachshund"
             }
         ]
     },
@@ -2691,6 +2786,11 @@
                 "lang": "en",
                 "name": "Hound Dog",
                 "description": "This user is a Hound Dog!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cão de Caça",
+                "description": "Este usuário é um Cão de Caça!  AKA: Hound Dog"
             }
         ]
     },
@@ -2701,6 +2801,11 @@
                 "lang": "en",
                 "name": "Small Dog",
                 "description": "This user is a Small Dog!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cachorro Pequeno",
+                "description": "Este usuário é um Cachorro Pequeno!  AKA: Small Dog"
             }
         ]
     },
@@ -2711,6 +2816,11 @@
                 "lang": "en",
                 "name": "Tiger-Dragon",
                 "description": "This user is a Tiger-Dragon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Tigre-Dragão",
+                "description": "Este usuário é um Tigre-Dragão!  AKA: Tiger-Dragon"
             }
         ]
     },
@@ -2721,6 +2831,11 @@
                 "lang": "en",
                 "name": "Dracat",
                 "description": "This user is a Dracat!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Dragato",
+                "description": "Este usuário é um Dragato (Dragão-Gato)!  AKA: Dracat"
             }
         ]
     },
@@ -2731,6 +2846,11 @@
                 "lang": "en",
                 "name": "Chihuahua",
                 "description": "This user is a Chihuahua!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Chihuahua",
+                "description": "Este usuário é um Chihuahua!"
             }
         ]
     },
@@ -2741,6 +2861,11 @@
                 "lang": "en",
                 "name": "African Wild Dog",
                 "description": "This user is an African Wild Dog!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Mabeco",
+                "description": "Este usuário é um Mabeco!  AKA: African Wild Dog"
             }
         ]
     },
