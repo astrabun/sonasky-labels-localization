@@ -1906,7 +1906,7 @@
                 "lang": "pt-BR",
                 "name": "Ovelha ",
                 "description": "Este usuário é uma Ovelha!"
-            }            
+            }
         ]
     },
     {
@@ -6635,7 +6635,7 @@
             {
                 "lang": "en",
                 "name": "Skullcreature",
-                "description": "This user is a Skullcreature!"
+                "description": "This user is a Skullcreature! Similar to skulldog, but generalized for all types of creatures."
             }
         ]
     },
@@ -6655,7 +6655,7 @@
             {
                 "lang": "en",
                 "name": "Tiefling",
-                "description": "This user is a Tiefling!"
+                "description": "This user is a Tiefling! [Category: D&D]"
             }
         ]
     },
@@ -6665,7 +6665,7 @@
             {
                 "lang": "en",
                 "name": "Espeon",
-                "description": "This user is an Espeon!"
+                "description": "This user is an Espeon! [Category: Pokemon]"
             }
         ]
     },
@@ -6675,7 +6675,7 @@
             {
                 "lang": "en",
                 "name": "Gyrfalcon",
-                "description": "This user is a Gyrfalcon!"
+                "description": "This user is a Gyrfalcon! [Category: Avian/Bird]"
             }
         ]
     },
@@ -6685,7 +6685,27 @@
             {
                 "lang": "en",
                 "name": "Mimiga",
-                "description": "This user is a Mimiga!"
+                "description": "This user is a Mimiga! from Cave Story (video game)"
+            }
+        ]
+    },
+    {
+        "id": "andean-bear",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Andean Bear",
+                "description": "This user is an Andean Bear!"
+            }
+        ]
+    },
+    {
+        "id": "glaceon",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Glaceon",
+                "description": "This user is a Glaceon! [Category: Pokemon]"
             }
         ]
     }
