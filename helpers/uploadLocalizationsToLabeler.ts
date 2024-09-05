@@ -79,9 +79,14 @@ async function main() {
     console.log("Upload localizations successful: ", `[${response.success}]`);
   };
 
-  await uploadLocalizationLabels();
+  uploadLocalizationLabels().then(() => {
+    return "DONE"
+  }).catch((err) => {
+    throw Error(`${err}`);
+  });
 }
 
-main().catch((err) => {
+main().then(() => {
+}).catch((err) => {
   throw Error(`${err}`);
 });
