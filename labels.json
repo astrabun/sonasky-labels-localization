@@ -6853,5 +6853,25 @@
                 "description": "This user is a Behemoth! [Category: Final Fantasy]"
             }
         ]
+    },
+    {
+        "id": "gengar",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gengar",
+                "description": "This user is a Gengar! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "riolu",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Riolu",
+                "description": "This user is a Riolu! [Category: Pokemon]"
+            }
+        ]
     }
 ]
