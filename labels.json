@@ -4604,8 +4604,8 @@
         "locales": [
             {
                 "lang": "en",
-                "name": "Slugcat",
-                "description": "This user is a Slugcat!"
+                "name": "Slugcat (Rain World)",
+                "description": "This user is a Slugcat! from Rain World (video game)"
             },
             {
                 "lang": "pt-BR",
@@ -6871,6 +6871,16 @@
                 "lang": "en",
                 "name": "Riolu",
                 "description": "This user is a Riolu! [Category: Pokemon]"
+            }
+        ]
+    },
+    {
+        "id": "scavenger",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Scavenger (Rain World)",
+                "description": "This user is a Scavenger! from Rain World (video game)"
             }
         ]
     }
