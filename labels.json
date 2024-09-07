@@ -3420,7 +3420,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Arara-Azul",
-                "description": "Este usuário é um Arara-Azul!  AKA: hyacinth-macaw [Category: Avian/Bird]"
+                "description": "Este usuário é um Arara-Azul!  AKA: hyacinth-macaw [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -3615,7 +3615,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Martim-pescador",
-                "description": "Este usuário é um Martim-pescador!  AKA: Kingfisher [Category: Avian/Bird]"
+                "description": "Este usuário é um Martim-pescador!  AKA: Kingfisher [Category: Ave/Pássaro]"
             }
         ]
     },
@@ -3730,7 +3730,7 @@
             {
                 "lang": "en",
                 "name": "Hare",
-                "description": "This user is a Hare! AKA: bunny"
+                "description": "This user is a Hare!"
             },
             {
                 "lang": "pt-BR",
@@ -3765,7 +3765,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Marta-Pescadora",
-                "description": "Este usuário é uma Marta-Pescadora!  AKA: Fisher [Category: Mustelid]"
+                "description": "Este usuário é uma Marta-Pescadora!  AKA: Fisher [Category: Mustelídeo]"
             }
         ]
     },
@@ -3810,7 +3810,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Oni",
-                "description": "Este usuário é um Oni! [Category: Folklore]"
+                "description": "Este usuário é um Oni! [Category: Folclore]"
             }
         ]
     },
@@ -3855,7 +3855,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Gaio de Steller",
-                "description": "Este usuário é um Gaio de Steller!  AKA: Steller's Jay"
+                "description": "Este usuário é um Gaio de Steller! [Category: Ave/Pássaro] AKA: Steller's Jay"
             }
         ]
     },
@@ -3870,7 +3870,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Troll (Folklore)",
-                "description": "Este usuário é um Troll! [Category: Folklore]"
+                "description": "Este usuário é um Troll! [Category: Folclore]"
             }
         ]
     },
@@ -3930,7 +3930,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Marsupial",
-                "description": "Este usuário é um Marsupial!"
+                "description": "Este usuário é um Marsupial! [Category: Marsupial]"
             }
         ]
     },
@@ -3945,7 +3945,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Lobo-da-tasmânia",
-                "description": "Este usuário é um Lobo-da-tasmânia ou Thylacine!  AKA: Elk"
+                "description": "Este usuário é um Lobo-da-tasmânia ou Thylacine! [Category: Marsupial]"
             }
         ]
     },
