@@ -605,7 +605,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Texugo",
-                "description": "Este usuário é um Téxugo! AKA: Lontras, Doninhas, Furões e derivados."
+                "description": "Este usuário é um Téxugo! [Category: Mustelídeo] AKA: Lontras, Doninhas, Furões e derivados."
             }
         ]
     },
@@ -620,7 +620,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Marto",
-                "description": "Este usuário é um Marto! [Category: Marto]"
+                "description": "Este usuário é um Marto! [Category: Mustelídeo]"
             }
         ]
     },
@@ -645,7 +645,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Furão",
-                "description": "Este usuário é um Furão! AKA: Furãozinho, Lontra."
+                "description": "Este usuário é um Furão! [Category: Mustelídeo] AKA: Furãozinho, Lontra."
             }
         ]
     },
@@ -660,7 +660,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Arminho",
-                "description": "Este usuário é um Arminho! AKA: Furão."
+                "description": "Este usuário é um Arminho! [Category: Mustelídeo] AKA: Furão."
             }
         ]
     },
@@ -2925,7 +2925,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Colibri",
-                "description": "Este usuário é um Colibri!  AKA: Hummingbird"
+                "description": "Este usuário é um Colibri! [Category: Ave/Pássaro] AKA: Hummingbird"
             }
         ]
     },
@@ -3075,7 +3075,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Tayra",
-                "description": "Este usuário é um Tayra!"
+                "description": "Este usuário é um Tayra! [Category: Mustelídeo]"
             }
         ]
     },
@@ -3285,7 +3285,7 @@
             {
                 "lang": "pt-BR",
                 "name": "Águia-Dourada",
-                "description": "Este usuário é um Águia-Dourada!  AKA: Golden Eagle [Category: Avian/Bird]"
+                "description": "Este usuário é um Águia-Dourada! AKA: Golden Eagle [Category: Ave/Pássaro]"
             }
         ]
     },
