@@ -1,6 +1,6 @@
 # SonaSky Labels Translation
 
-This repo is for collaborative localization of species labels in SonaSky.
+This repo is for collaborative localization of species labels in [SonaSky](https://bsky.app/profile/sonasky.bsky.social) [[Github]](https://github.com/astrabun/sonasky) | [[Browse Labels]](https://sonasky-browse.bunnys.ky/) | [[Blog]](https://astrabun.com/projects/sonasky/).
 
 ## Automation
 
