@@ -2876,6 +2876,11 @@
                 "lang": "en",
                 "name": "Skulldog",
                 "description": "This user is a Skulldog!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Skulldog",
+                "description": "Este usuário é um Skulldog!"
             }
         ]
     },
@@ -2886,6 +2891,11 @@
                 "lang": "en",
                 "name": "Toon",
                 "description": "This user is a Toon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Desenho Animado",
+                "description": "Este usuário é um Desenho Animado!  AKA: Toon"
             }
         ]
     },
@@ -2896,6 +2906,11 @@
                 "lang": "en",
                 "name": "Coral Reef",
                 "description": "This user is a Coral Reef!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Recife de Corais",
+                "description": "Este usuário é um Recife de Corais!  AKA: Coral Reef"
             }
         ]
     },
@@ -2906,6 +2921,11 @@
                 "lang": "en",
                 "name": "Hummingbird",
                 "description": "This user is a Hummingbird! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Colibri",
+                "description": "Este usuário é um Colibri!  AKA: Hummingbird"
             }
         ]
     },
@@ -2916,6 +2936,11 @@
                 "lang": "en",
                 "name": "Lucario",
                 "description": "This user is a Lucario! [Category: Pokemon]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lucario",
+                "description": "Este usuário é um Lucario! [Category: Pokemon]"
             }
         ]
     },
@@ -2926,6 +2951,11 @@
                 "lang": "en",
                 "name": "Cocker Spaniel",
                 "description": "This user is a Cocker Spaniel!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cocker Spaniel",
+                "description": "Este usuário é um Cocker Spaniel!"
             }
         ]
     },
@@ -2936,6 +2966,11 @@
                 "lang": "en",
                 "name": "Angel",
                 "description": "This user is an Angel!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Anjo",
+                "description": "Este usuário é um Anjo!  AKA: Angel"
             }
         ]
     },
@@ -2946,6 +2981,11 @@
                 "lang": "en",
                 "name": "Solar",
                 "description": "This user's fursona can be described as Solar!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Solar",
+                "description": "O Fursona desse usuário pode ser descrito como um Solar!"
             }
         ]
     },
@@ -2956,6 +2996,11 @@
                 "lang": "en",
                 "name": "Wolf Dragon",
                 "description": "This user is a Wolf Dragon!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cachorro-Dragão",
+                "description": "Este usuário é um Cachorro-Dragão!  AKA: Wolf Dragon"
             }
         ]
     },
@@ -2966,6 +3011,11 @@
                 "lang": "en",
                 "name": "Ocelot",
                 "description": "This user is an Ocelot!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Jaguatirica",
+                "description": "Este usuário é uma Jaguatirica!  AKA: Ocelot"
             }
         ]
     },
@@ -2976,6 +3026,11 @@
                 "lang": "en",
                 "name": "Pembroke Welsh Corgi",
                 "description": "This user is a Pembroke Welsh Corgi!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pembroke Welsh Corgi",
+                "description": "Este usuário é um Pembroke Welsh Corgi!"
             }
         ]
     },
@@ -2986,6 +3041,11 @@
                 "lang": "en",
                 "name": "Cardigan Welsh Corgi",
                 "description": "This user is a Cardigan Welsh Corgi!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Cardigan Welsh Corgi",
+                "description": "Este usuário é um Cardigan Welsh Corgi!"
             }
         ]
     },
@@ -2996,6 +3056,11 @@
                 "lang": "en",
                 "name": "Beaver",
                 "description": "This user is a Beaver!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Castor",
+                "description": "Este usuário é um Castor!  AKA: Beaver"
             }
         ]
     },
@@ -3006,6 +3071,11 @@
                 "lang": "en",
                 "name": "Tayra",
                 "description": "This user is a Tayra! [Category: Mustelid]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Tayra",
+                "description": "Este usuário é um Tayra!"
             }
         ]
     },
@@ -3016,6 +3086,11 @@
                 "lang": "en",
                 "name": "Golden Jackal",
                 "description": "This user is a Golden Jackal!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Chacal Dourado",
+                "description": "Este usuário é um Chacal Dourado!  AKA: Golden Jackal"
             }
         ]
     },
@@ -3026,6 +3101,11 @@
                 "lang": "en",
                 "name": "Teshari",
                 "description": "This user is a Teshari! https://ss13polaris.com/index.php?title=Teshari"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Teshari",
+                "description": "Este usuário é um Teshari!  https://ss13polaris.com/index.php?title=Teshari"
             }
         ]
     },
@@ -3036,6 +3116,11 @@
                 "lang": "en",
                 "name": "Yoshi",
                 "description": "This user is a Yoshi!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Yoshi",
+                "description": "Este usuário é um Yoshi!"
             }
         ]
     },
@@ -3046,6 +3131,11 @@
                 "lang": "en",
                 "name": "Guinea Pig",
                 "description": "This user is a Guinea Pig!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Porquinho-da-Índia",
+                "description": "Este usuário é um Porquinho-da-Índia!  AKA: Guinea Pig"
             }
         ]
     },
@@ -3056,6 +3146,11 @@
                 "lang": "en",
                 "name": "Arctic Wolf",
                 "description": "This user is an Arctic Wolf! AKA: white wolf, polar wolf, Arctic grey wolf"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Lobo do Ártico",
+                "description": "Este usuário é um Lobo do Ártico! Ou Lobo Branco, Lobo Polar, Lobo Cinza Polar AKA: Arctic Wolf, white wolf, polar wolf, Arctic grey wolf"
             }
         ]
     },
@@ -3066,6 +3161,11 @@
                 "lang": "en",
                 "name": "Tibetan Fox",
                 "description": "This user is a Tibetan Fox! AKA: Tibetan sand fox"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Raposa do Himalaia",
+                "description": "Este usuário é um Raposa do Himalaia!  AKA: Tibetan Fox"
             }
         ]
     },
@@ -3076,6 +3176,11 @@
                 "lang": "en",
                 "name": "Rexouium",
                 "description": "This user is a Rexouium! #VRChat About: https://www.furaffinity.net/view/36134921/"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Rexouium",
+                "description": "Este usuário é um Rexouium! #VRChat About: https://www.furaffinity.net/view/36134921/"
             }
         ]
     },
@@ -3086,6 +3191,11 @@
                 "lang": "en",
                 "name": "Housefly",
                 "description": "This user is a Housefly!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Mosca-Doméstica",
+                "description": "Este usuário é um Mosca-Doméstica!  AKA: Housefly"
             }
         ]
     },
@@ -3096,6 +3206,11 @@
                 "lang": "en",
                 "name": "Ninetales",
                 "description": "This user is a Ninetales! [Category: Pokemon]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Ninetales",
+                "description": "Este usuário é um Ninetales! [Category: Pokemon]"
             }
         ]
     },
@@ -3106,6 +3221,11 @@
                 "lang": "en",
                 "name": "Reindeer/Caribou",
                 "description": "This user is a Reindeer/Caribou. https://en.wikipedia.org/wiki/Reindeer#Naming"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Rena/Caribu",
+                "description": "Este usuário é um Rena/Caribu!  AKA: Reindeer/Caribou"
             }
         ]
     },
@@ -3116,6 +3236,11 @@
                 "lang": "en",
                 "name": "Taidum",
                 "description": "This user is a Taidum! #VRChat - https://en.wikifur.com/wiki/Taidum"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Taidum",
+                "description": "Este usuário é um Taidum! #VRChat - https://en.wikifur.com/wiki/Taidum"
             }
         ]
     },
@@ -3126,6 +3251,11 @@
                 "lang": "en",
                 "name": "Bohemian Shepherd",
                 "description": "This user is a Bohemian Shepherd!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Pastor Boêbio",
+                "description": "Este usuário é um Pastor Boêmio!  AKA: Bohemian Shepherd"
             }
         ]
     },
@@ -3136,6 +3266,11 @@
                 "lang": "en",
                 "name": "Obstagoon",
                 "description": "This user is an Obstagoon! [Category: Pokemon]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Obstagoon",
+                "description": "Este usuário é um Obstagoon! [Category: Pokemon]"
             }
         ]
     },
@@ -3146,6 +3281,11 @@
                 "lang": "en",
                 "name": "Golden Eagle",
                 "description": "This user is a Golden Eagle! [Category: Avian/Bird]"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Águia-Dourada",
+                "description": "Este usuário é um Águia-Dourada!  AKA: Golden Eagle [Category: Avian/Bird]"
             }
         ]
     },
@@ -3156,6 +3296,11 @@
                 "lang": "en",
                 "name": "Genet",
                 "description": "This user is a Genet!"
+            },
+            {
+                "lang": "pt-BR",
+                "name": "Genetta",
+                "description": "Este usuário é uma Genetta!  AKA: Genet"
             }
         ]
     },
