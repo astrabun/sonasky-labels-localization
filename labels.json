@@ -4836,7 +4836,12 @@
                 "lang": "en",
                 "name": "Lupe",
                 "description": "This user is a Lupe! [Category: Neopet]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Lupe",
+            	"description": "Este usuário é um Lupe! [Category: Neopet]"
+        	}
         ]
     },
     {
@@ -4846,7 +4851,12 @@
                 "lang": "en",
                 "name": "Aisha",
                 "description": "This user is an Aisha! [Category: Neopet]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Aisha",
+            	"description": "Este usuário é um Aisha! [Category: Neopet]"
+        	}
         ]
     },
     {
@@ -4856,7 +4866,12 @@
                 "lang": "en",
                 "name": "Bori",
                 "description": "This user is a Bori! [Category: Neopet]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Bori",
+            	"description": "Este usuário é um Bori! [Category: Neopet]"
+        	}
         ]
     },
     {
@@ -4866,7 +4881,12 @@
                 "lang": "en",
                 "name": "Ixi",
                 "description": "This user is an Ixi! [Category: Neopet]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Ixi",
+            	"description": "Este usuário é um Ixi! [Category: Neopet]"
+        	}
         ]
     },
     {
@@ -4876,7 +4896,12 @@
                 "lang": "en",
                 "name": "Kougra",
                 "description": "This user is a Kougra! [Category: Neopet]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Kougra",
+            	"description": "Este usuário é um Kougra! [Category: Neopet]"
+        	}
         ]
     },
     {
@@ -4886,7 +4911,12 @@
                 "lang": "en",
                 "name": "Xweetok",
                 "description": "This user is a Xweetok! [Category: Neopet]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Xweetok",
+            	"description": "Este usuário é um Xweetok! [Category: Neopet]"
+        	}
         ]
     },
     {
@@ -4896,7 +4926,12 @@
                 "lang": "en",
                 "name": "Zafara",
                 "description": "This user is a Zafara! [Category: Neopet]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Zafara",
+            	"description": "Este usuário é um Zafara! [Category: Neopet]"
+        	}
         ]
     },
     {
@@ -4906,7 +4941,12 @@
                 "lang": "en",
                 "name": "Liger",
                 "description": "This user is a Liger!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Ligre",
+            	"description": "Este usuário é um Ligre!"
+        	}
         ]
     },
     {
@@ -4916,7 +4956,12 @@
                 "lang": "en",
                 "name": "Sabertooth Liger",
                 "description": "This user is a Sabertooth Liger!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Ligre dente de sabre",
+            	"description": "Este usuário é um Ligre dente de sabre!"
+        	}
         ]
     },
     {
@@ -4926,7 +4971,12 @@
                 "lang": "en",
                 "name": "Grey Wolf",
                 "description": "This user is a Grey Wolf!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Lobo-cinzento",
+            	"description": "Este usuário é um Lobo-cinzento!"
+        	}
         ]
     },
     {
@@ -4936,7 +4986,12 @@
                 "lang": "en",
                 "name": "Borzoi",
                 "description": "This user is a Borzoi!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Borzoi",
+            	"description": "Este usuário é um Borzoi!"
+        	}
         ]
     },
     {
@@ -4946,7 +5001,12 @@
                 "lang": "en",
                 "name": "Fossa",
                 "description": "This user is a Fossa!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Fossa",
+            	"description": "Este usuário é uma Fossa! AKA: fosa"
+        	}
         ]
     },
     {
@@ -4956,7 +5016,12 @@
                 "lang": "en",
                 "name": "Cross Fox",
                 "description": "This user is a Cross Fox!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Raposa-vermelha",
+            	"description": "Este usuário é uma Raposa-vermelha!"
+        	}
         ]
     },
     {
@@ -4966,7 +5031,12 @@
                 "lang": "en",
                 "name": "Gray Fox",
                 "description": "This user is a Gray Fox!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Raposa-cinzenta",
+            	"description": "Este usuário é uma Raposa-cinzenta!"
+        	}
         ]
     },
     {
@@ -4976,7 +5046,12 @@
                 "lang": "en",
                 "name": "Island Fox",
                 "description": "This user is an Island Fox!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Raposa-das-ilhas",
+            	"description": "Este usuário é uma Raposa-das-ilhas!"
+        	}
         ]
     },
     {
@@ -4986,7 +5061,12 @@
                 "lang": "en",
                 "name": "Satyr",
                 "description": "This user is a Satyr!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Sátiro",
+            	"description": "Este usuário é um Sátiro!"
+        	}
         ]
     },
     {
@@ -4996,7 +5076,12 @@
                 "lang": "en",
                 "name": "Pony",
                 "description": "This user is a Pony!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Pônei",
+            	"description": "Este usuário é um Pônei!"
+        	}
         ]
     },
     {
@@ -5006,7 +5091,12 @@
                 "lang": "en",
                 "name": "Radioactive",
                 "description": "☢️This user is radioactive☢️"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Radioativo",
+            	"description": "☢️Este usuário é Radioativo!☢️"
+        	}
         ]
     },
     {
@@ -5016,7 +5106,12 @@
                 "lang": "en",
                 "name": "Dovekie",
                 "description": "This user is a Dovekie! [Category: Avian/Bird]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Torda-anã",
+            	"description": "Este usuário é uma Torda-anã! AKA: torda-miúda-do-atlântico [Category: Ave/Pássaro]"
+        	}
         ]
     },
     {
@@ -5026,7 +5121,12 @@
                 "lang": "en",
                 "name": "Human",
                 "description": "This user might not necessarily have a fursona, but they're supportive of furries/the fandom!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Humano",
+            	"description": "Este usuário pode não ter necessariamente uma fursona, mas apoia os furries/o fandom!"
+        	}
         ]
     },
     {
@@ -5036,7 +5136,12 @@
                 "lang": "en",
                 "name": "Chocobo",
                 "description": "This user is a Chocobo! [Category: Final Fantasy]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Chocobo",
+            	"description": "Este usuário é um Chocobo! [Category: Final Fantasy]"
+        	}
         ]
     },
     {
@@ -5046,7 +5151,12 @@
                 "lang": "en",
                 "name": "Chao",
                 "description": "This user is a Chao! [Category: Sonic the Hedgehog]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Chao",
+            	"description": "Este usuário é um Chao! [Category: Sonic the Hedgehog]"
+        	}
         ]
     },
     {
@@ -5056,7 +5166,12 @@
                 "lang": "en",
                 "name": "Binturong",
                 "description": "This user is a Binturong!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Binturongue",
+            	"description": "Este usuário é um Binturongue! AKA: binturong, urso-gato-asiático"
+        	}
         ]
     },
     {
@@ -5066,7 +5181,12 @@
                 "lang": "en",
                 "name": "Dryad",
                 "description": "This user is a Dryad!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Dryad",
+            	"description": "Este usuário é uma Dryad!"
+        	}
         ]
     },
     {
@@ -5076,7 +5196,12 @@
                 "lang": "en",
                 "name": "Nimbat",
                 "description": "This user is a Nimbat! (from Dust: An Elysian Tail)"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Nimbat",
+            	"description": "Este usuário é um Nimbat! (de Dust: An Elysian Tail)"
+        	}
         ]
     },
     {
@@ -5086,7 +5211,12 @@
                 "lang": "en",
                 "name": "Gieeg",
                 "description": "This user is a Gieeg! AKA: Geeg. From Earthbound."
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Gieeg",
+            	"description": "Este usuário é um Gieeg! AKA: Geeg. De Earthbound."
+        	}
         ]
     },
     {
@@ -6836,7 +6966,12 @@
                 "lang": "en",
                 "name": "Octopus",
                 "description": "This user is an Octopus! [Category: Pokemon]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Polvo",
+            	"description": "Este usuário é um Polvo!"
+        	}
         ]
     },
     {
@@ -7311,7 +7446,12 @@
                 "lang": "en",
                 "name": "Skullcreature",
                 "description": "This user is a Skullcreature! Similar to skulldog, but generalized for all types of creatures."
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Criatura-Caveira",
+            	"description": "Este usuário é uma Criatura-Caveira! Semelhante ao Skulldog, mas generalizado para todos os tipos de criaturas."
+        	}
         ]
     },
     {
@@ -7321,7 +7461,12 @@
                 "lang": "en",
                 "name": "Lalafell",
                 "description": "This user is a Lalafell!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Lalafell",
+            	"description": "Este usuário é uma Lalafell!"
+        	}
         ]
     },
     {
@@ -7331,7 +7476,12 @@
                 "lang": "en",
                 "name": "Tiefling",
                 "description": "This user is a Tiefling! [Category: D&D]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Tiefling",
+            	"description": "Este usuário é um Tiefling! [Category: D&D]"
+        	}
         ]
     },
     {
@@ -7341,7 +7491,12 @@
                 "lang": "en",
                 "name": "Espeon",
                 "description": "This user is an Espeon! [Category: Pokemon]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Espeon",
+            	"description": "Este usuário é um Espeon! [Category: Pokemon]"
+        	}
         ]
     },
     {
@@ -7351,7 +7506,12 @@
                 "lang": "en",
                 "name": "Gyrfalcon",
                 "description": "This user is a Gyrfalcon! [Category: Avian/Bird]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Falcão-gerifalte",
+            	"description": "Este usuário é um Falcão-gerifalte! [Category: Aves/Pássaros]"
+        	}
         ]
     },
     {
@@ -7361,7 +7521,12 @@
                 "lang": "en",
                 "name": "Mimiga",
                 "description": "This user is a Mimiga! from Cave Story (video game)"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Mimiga",
+            	"description": "Este usuário é um Mimiga! de Cave Story (video game)"
+        	}
         ]
     },
     {
@@ -7371,7 +7536,12 @@
                 "lang": "en",
                 "name": "Andean Bear",
                 "description": "This user is an Andean Bear!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Urso-de-óculos",
+            	"description": "Este usuário é um Urso-de-óculos! AKA: jukumari, urso-andino, urso-de-lunetas"
+        	}
         ]
     },
     {
@@ -7381,7 +7551,12 @@
                 "lang": "en",
                 "name": "Glaceon",
                 "description": "This user is a Glaceon! [Category: Pokemon]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Glaceon",
+            	"description": "Este usuário é um Glaceon! [Category: Pokemon]"
+        	}
         ]
     },
     {
@@ -7391,7 +7566,12 @@
                 "lang": "en",
                 "name": "Finnish Spitz",
                 "description": "This user is a Finnish Spitz!"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Spitz finlandês",
+            	"description": "Este usuário é um Spitz finlandês!"
+        	}
         ]
     },
     {
@@ -7401,7 +7581,12 @@
                 "lang": "en",
                 "name": "Behemoth",
                 "description": "This user is a Behemoth! [Category: Final Fantasy]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Behemoth",
+            	"description": "Este usuário é um Behemoth! [Category: Final Fantasy]"
+        	}
         ]
     },
     {
@@ -7411,7 +7596,12 @@
                 "lang": "en",
                 "name": "Gengar",
                 "description": "This user is a Gengar! [Category: Pokemon]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Gengar",
+            	"description": "Este usuário é um Gengar! [Category: Pokemon]"
+        	}
         ]
     },
     {
@@ -7421,7 +7611,12 @@
                 "lang": "en",
                 "name": "Riolu",
                 "description": "This user is a Riolu! [Category: Pokemon]"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Riolu",
+            	"description": "Este usuário é um Riolu! [Category: Pokemon]"
+        	}
         ]
     },
     {
@@ -7431,7 +7626,12 @@
                 "lang": "en",
                 "name": "Scavenger (Rain World)",
                 "description": "This user is a Scavenger! from Rain World (video game)"
-            }
+            },
+            {
+            	"lang": "pt-BR",
+            	"name": "Scavenger (Rain World)",
+            	"description": "Este usuário é um Scavenger! de Rain World (video game)"
+        	}
         ]
     }
 ]
