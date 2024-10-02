@@ -6,7 +6,8 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted
+    # runs-on: self-hosted
+    runs-on: ubuntu-latest
     env:
       OZONE_SERVICE_USER_DID: ${{ secrets.OZONE_SERVICE_USER_DID }}
       BSKY_USER: ${{ secrets.BSKY_USER }}

@@ -56,6 +56,7 @@ async function main() {
         let localesForDef = onDiskLocalizations.filter(
           (i) => i.id === newLabelDef.identifier
         )[0].locales;
+        localesForDef = localesForDef.filter(j => j.lang === "en") // TEMPORARY filter to English only; data size too large; see https://github.com/bluesky-social/atproto/issues/2803
         newLabelDef.locales = localesForDef;
       }
       return newLabelDef;
