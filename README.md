@@ -1,5 +1,7 @@
 # SonaSky Labels Translation
 
+> ⚠️ Localization paused due to max data size reached in AT Proto; https://github.com/bluesky-social/atproto/issues/2803
+
 This repo is for collaborative localization of species labels in [SonaSky](https://bsky.app/profile/sonasky.bsky.social) [[Github]](https://github.com/astrabun/sonasky) | [[Browse Labels]](https://sonasky-browse.bunnys.ky/) | [[Blog]](https://astrabun.com/projects/sonasky/).
 
 ## Automation
