@@ -1,3 +1,5 @@
+# ⚠️ Deprecated - see https://github.com/astrabun/sonasky-labels-def
+
 # SonaSky Labels Translation
 
 > ⚠️ Localization paused due to max data size reached in AT Proto; https://github.com/bluesky-social/atproto/issues/2803
